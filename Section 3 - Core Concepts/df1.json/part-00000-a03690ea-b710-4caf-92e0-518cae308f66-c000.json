@@ -1,0 +1,983 @@
+{"gender":"Female","city":"Dachun","total":25090.869140625,"average":25090.869140625,"min":25090.87,"max":25090.87}
+{"gender":"Female","city":"Trollhättan","total":106623.369140625,"average":53311.6845703125,"min":26830.47,"max":79792.9}
+{"gender":"Male","city":"Wenshao","total":18941.509765625,"average":18941.509765625,"min":18941.51,"max":18941.51}
+{"gender":"Female","city":"Lanas","total":13765.900390625,"average":13765.900390625,"min":13765.9,"max":13765.9}
+{"gender":"Male","city":"Mörön","total":77940.078125,"average":77940.078125,"min":77940.08,"max":77940.08}
+{"gender":"Female","city":"Same","total":73369.7265625,"average":73369.7265625,"min":73369.73,"max":73369.73}
+{"gender":"Female","city":"Sawahan","total":24608.83984375,"average":24608.83984375,"min":24608.84,"max":24608.84}
+{"gender":"Male","city":"Monte da Boavista","total":98586.71875,"average":98586.71875,"min":98586.72,"max":98586.72}
+{"gender":"Female","city":"Nusajaya","total":71637.921875,"average":71637.921875,"min":71637.92,"max":71637.92}
+{"gender":"Female","city":"Kista","total":96192.3984375,"average":96192.3984375,"min":96192.4,"max":96192.4}
+{"gender":"Male","city":"Pittsburgh","total":83121.890625,"average":83121.890625,"min":83121.89,"max":83121.89}
+{"gender":"Male","city":"Neftegorsk","total":97531.46875,"average":97531.46875,"min":97531.47,"max":97531.47}
+{"gender":"Female","city":"Yanaoca","total":54906.21875,"average":54906.21875,"min":54906.22,"max":54906.22}
+{"gender":"Male","city":"Tambo","total":40264.91015625,"average":40264.91015625,"min":40264.91,"max":40264.91}
+{"gender":"Male","city":"Mytishchi","total":63863.08984375,"average":63863.08984375,"min":63863.09,"max":63863.09}
+{"gender":"Male","city":"Pedra","total":73921.328125,"average":73921.328125,"min":73921.33,"max":73921.33}
+{"gender":"Female","city":"Dhaka","total":68368.546875,"average":68368.546875,"min":68368.55,"max":68368.55}
+{"gender":"Male","city":"Mosteiros","total":62508.87109375,"average":62508.87109375,"min":62508.87,"max":62508.87}
+{"gender":"Male","city":"Roanne","total":93339.9921875,"average":93339.9921875,"min":93339.99,"max":93339.99}
+{"gender":"Female","city":"Eindhoven","total":24042.099609375,"average":24042.099609375,"min":24042.1,"max":24042.1}
+{"gender":"Female","city":"Sanzao","total":70049.46875,"average":70049.46875,"min":70049.47,"max":70049.47}
+{"gender":"Female","city":"Santa Rosa","total":47887.0703125,"average":47887.0703125,"min":47887.07,"max":47887.07}
+{"gender":"Male","city":"Rongxing","total":36273.80078125,"average":36273.80078125,"min":36273.8,"max":36273.8}
+{"gender":"Male","city":"Tangkou","total":85083.3984375,"average":85083.3984375,"min":85083.4,"max":85083.4}
+{"gender":"Male","city":"Chalan Pago-Ordot Village","total":72777.4765625,"average":72777.4765625,"min":72777.48,"max":72777.48}
+{"gender":"Female","city":"San Isidro","total":83451.7421875,"average":83451.7421875,"min":83451.74,"max":83451.74}
+{"gender":"Female","city":"Vasilikón","total":97121.8125,"average":97121.8125,"min":97121.81,"max":97121.81}
+{"gender":"Male","city":"Quán Hàu","total":70236.328125,"average":70236.328125,"min":70236.33,"max":70236.33}
+{"gender":"Female","city":"Tambakrejo","total":22750.5,"average":22750.5,"min":22750.5,"max":22750.5}
+{"gender":"Male","city":"Bīr Zayt","total":49488.578125,"average":49488.578125,"min":49488.58,"max":49488.58}
+{"gender":"Male","city":"Shangjing","total":55711.37890625,"average":55711.37890625,"min":55711.38,"max":55711.38}
+{"gender":"Male","city":"Núi Sập","total":36160.91015625,"average":36160.91015625,"min":36160.91,"max":36160.91}
+{"gender":"Female","city":"St. Anton an der Jeßnitz","total":89421.0078125,"average":89421.0078125,"min":89421.01,"max":89421.01}
+{"gender":"Male","city":"Novobiryusinskiy","total":81698.25,"average":81698.25,"min":81698.25,"max":81698.25}
+{"gender":"Male","city":"Porsgrunn","total":63518.6484375,"average":63518.6484375,"min":63518.65,"max":63518.65}
+{"gender":"Male","city":"Cipeundeuy","total":90248.34375,"average":90248.34375,"min":90248.34,"max":90248.34}
+{"gender":"Male","city":"Wieczfnia Kościelna","total":91685.3203125,"average":91685.3203125,"min":91685.32,"max":91685.32}
+{"gender":"Male","city":"San Vicente","total":54163.62890625,"average":54163.62890625,"min":54163.63,"max":54163.63}
+{"gender":"Female","city":"Hezuoqiao","total":92187.96875,"average":92187.96875,"min":92187.97,"max":92187.97}
+{"gender":"Female","city":"Krasnogvardeyets","total":17541.83984375,"average":17541.83984375,"min":17541.84,"max":17541.84}
+{"gender":"Female","city":"Blagoevgrad","total":86391.8203125,"average":86391.8203125,"min":86391.82,"max":86391.82}
+{"gender":"Female","city":"Golynki","total":35622.75,"average":35622.75,"min":35622.75,"max":35622.75}
+{"gender":"Male","city":"Oytal","total":89363.0078125,"average":89363.0078125,"min":89363.01,"max":89363.01}
+{"gender":"Male","city":"Phra Khanong","total":29440.470703125,"average":29440.470703125,"min":29440.47,"max":29440.47}
+{"gender":"Female","city":"Kishiwada","total":93177.7890625,"average":93177.7890625,"min":93177.79,"max":93177.79}
+{"gender":"Male","city":"Iraquara","total":82493.921875,"average":82493.921875,"min":82493.92,"max":82493.92}
+{"gender":"Female","city":"La Ravoire","total":13678.169921875,"average":13678.169921875,"min":13678.17,"max":13678.17}
+{"gender":"Male","city":"Duzhou","total":66832.921875,"average":66832.921875,"min":66832.92,"max":66832.92}
+{"gender":"Male","city":"Burgau","total":42895.44921875,"average":42895.44921875,"min":42895.45,"max":42895.45}
+{"gender":"Male","city":"Monze","total":17134.9609375,"average":17134.9609375,"min":17134.96,"max":17134.96}
+{"gender":"Male","city":"San Narciso","total":20781.119140625,"average":20781.119140625,"min":20781.12,"max":20781.12}
+{"gender":"Male","city":"Hägersten","total":55313.1796875,"average":55313.1796875,"min":55313.18,"max":55313.18}
+{"gender":"Male","city":"Vila Viçosa","total":44675.96875,"average":44675.96875,"min":44675.97,"max":44675.97}
+{"gender":"Male","city":"Sawahbaru","total":99013.7109375,"average":99013.7109375,"min":99013.71,"max":99013.71}
+{"gender":"Male","city":"Hyrynsalmi","total":52068.96875,"average":52068.96875,"min":52068.97,"max":52068.97}
+{"gender":"Male","city":"Nowosielce-Gniewosz","total":38098.5,"average":38098.5,"min":38098.5,"max":38098.5}
+{"gender":"Female","city":"Esteio","total":81976.7265625,"average":81976.7265625,"min":81976.73,"max":81976.73}
+{"gender":"Male","city":"Khong","total":67614.2578125,"average":67614.2578125,"min":67614.26,"max":67614.26}
+{"gender":"Female","city":"Caromatan","total":12772.66015625,"average":12772.66015625,"min":12772.66,"max":12772.66}
+{"gender":"Male","city":"Pont-à-Mousson","total":88624.96875,"average":88624.96875,"min":88624.97,"max":88624.97}
+{"gender":"Female","city":"Trail","total":24315.720703125,"average":24315.720703125,"min":24315.72,"max":24315.72}
+{"gender":"Female","city":"Brampton","total":91924.46875,"average":91924.46875,"min":91924.47,"max":91924.47}
+{"gender":"Female","city":"Badarganj","total":85368.5234375,"average":85368.5234375,"min":85368.52,"max":85368.52}
+{"gender":"Male","city":"Takeo","total":79038.71875,"average":79038.71875,"min":79038.72,"max":79038.72}
+{"gender":"Female","city":"Tebingtinggi","total":52767.76953125,"average":52767.76953125,"min":52767.77,"max":52767.77}
+{"gender":"Male","city":"Karangtawar","total":99638.9921875,"average":99638.9921875,"min":99638.99,"max":99638.99}
+{"gender":"Female","city":"Tielou","total":87248.53125,"average":87248.53125,"min":87248.53,"max":87248.53}
+{"gender":"Female","city":"Miðvágur","total":60651.48046875,"average":60651.48046875,"min":60651.48,"max":60651.48}
+{"gender":"Female","city":"Lakateng","total":35089.05078125,"average":35089.05078125,"min":35089.05,"max":35089.05}
+{"gender":"Female","city":"Vose’","total":32389.919921875,"average":32389.919921875,"min":32389.92,"max":32389.92}
+{"gender":"Male","city":"Dubá","total":28119.279296875,"average":28119.279296875,"min":28119.28,"max":28119.28}
+{"gender":"Female","city":"Kampene","total":95927.2265625,"average":95927.2265625,"min":95927.23,"max":95927.23}
+{"gender":"Female","city":"Phanat Nikhom","total":92586.9375,"average":92586.9375,"min":92586.94,"max":92586.94}
+{"gender":"Female","city":"Banjar Banyualit","total":57365.1015625,"average":57365.1015625,"min":57365.1,"max":57365.1}
+{"gender":"Male","city":"Kisoro","total":54239.26953125,"average":54239.26953125,"min":54239.27,"max":54239.27}
+{"gender":"Female","city":"Vodňany","total":64781.2890625,"average":64781.2890625,"min":64781.29,"max":64781.29}
+{"gender":"Male","city":"Bajingmeduro","total":11652.990234375,"average":11652.990234375,"min":11652.99,"max":11652.99}
+{"gender":"Male","city":"Ribeirinha","total":90193.5625,"average":90193.5625,"min":90193.56,"max":90193.56}
+{"gender":"Female","city":"Rancho Nuevo","total":49228.23828125,"average":49228.23828125,"min":49228.24,"max":49228.24}
+{"gender":"Male","city":"Rožmitál pod Třemšínem","total":25529.880859375,"average":25529.880859375,"min":25529.88,"max":25529.88}
+{"gender":"Male","city":"Toroy","total":62848.87109375,"average":62848.87109375,"min":62848.87,"max":62848.87}
+{"gender":"Female","city":"Chōfugaoka","total":72918.1171875,"average":72918.1171875,"min":72918.12,"max":72918.12}
+{"gender":"Female","city":"Reriz","total":26769.810546875,"average":26769.810546875,"min":26769.81,"max":26769.81}
+{"gender":"Male","city":"Dikwa","total":39694.921875,"average":39694.921875,"min":39694.92,"max":39694.92}
+{"gender":"Female","city":"Caoyan","total":20097.83984375,"average":20097.83984375,"min":20097.84,"max":20097.84}
+{"gender":"Female","city":"Kítsi","total":31388.0703125,"average":31388.0703125,"min":31388.07,"max":31388.07}
+{"gender":"Female","city":"Třemošnice","total":92915.359375,"average":92915.359375,"min":92915.36,"max":92915.36}
+{"gender":"Male","city":"Linglong","total":94883.8515625,"average":94883.8515625,"min":94883.85,"max":94883.85}
+{"gender":"Male","city":"Osiek","total":16977.98046875,"average":16977.98046875,"min":16977.98,"max":16977.98}
+{"gender":"Male","city":"Balazar","total":36602.5703125,"average":36602.5703125,"min":36602.57,"max":36602.57}
+{"gender":"Female","city":"Hongmiao","total":40968.05078125,"average":40968.05078125,"min":40968.05,"max":40968.05}
+{"gender":"Male","city":"Gérakas","total":28896.439453125,"average":28896.439453125,"min":28896.44,"max":28896.44}
+{"gender":"Male","city":"Milín","total":28882.970703125,"average":28882.970703125,"min":28882.97,"max":28882.97}
+{"gender":"Male","city":"Brooklyn","total":17326.2890625,"average":17326.2890625,"min":17326.29,"max":17326.29}
+{"gender":"Female","city":"Tha Ruea","total":74315.4296875,"average":74315.4296875,"min":74315.43,"max":74315.43}
+{"gender":"Male","city":"Lapu-Lapu City","total":47631.98828125,"average":47631.98828125,"min":47631.99,"max":47631.99}
+{"gender":"Male","city":"Amorim","total":60601.4296875,"average":60601.4296875,"min":60601.43,"max":60601.43}
+{"gender":"Female","city":"Ichinoseki","total":78954.921875,"average":78954.921875,"min":78954.92,"max":78954.92}
+{"gender":"Male","city":"Rychtal","total":90030.3515625,"average":90030.3515625,"min":90030.35,"max":90030.35}
+{"gender":"Female","city":"Clichy","total":26236.0,"average":26236.0,"min":26236.0,"max":26236.0}
+{"gender":"Female","city":"Guangpu","total":29341.94921875,"average":29341.94921875,"min":29341.95,"max":29341.95}
+{"gender":"Male","city":"Marjayoûn","total":21209.669921875,"average":21209.669921875,"min":21209.67,"max":21209.67}
+{"gender":"Female","city":"Kembang","total":88665.421875,"average":88665.421875,"min":88665.42,"max":88665.42}
+{"gender":"Male","city":"Alexandria","total":38887.62109375,"average":38887.62109375,"min":38887.62,"max":38887.62}
+{"gender":"Male","city":"Kuala Lumpur","total":121664.8828125,"average":60832.44140625,"min":42634.28,"max":79030.6}
+{"gender":"Female","city":"Dayanggezhuang","total":78268.3203125,"average":78268.3203125,"min":78268.32,"max":78268.32}
+{"gender":"Female","city":"Sanshengyuan","total":28926.94921875,"average":28926.94921875,"min":28926.95,"max":28926.95}
+{"gender":"Female","city":"Nambak Tengah","total":92048.6796875,"average":92048.6796875,"min":92048.68,"max":92048.68}
+{"gender":"Female","city":"Hongzhou","total":35707.30859375,"average":35707.30859375,"min":35707.31,"max":35707.31}
+{"gender":"Male","city":"Rontu","total":52353.21875,"average":52353.21875,"min":52353.22,"max":52353.22}
+{"gender":"Male","city":"Gadžin Han","total":58431.91015625,"average":58431.91015625,"min":58431.91,"max":58431.91}
+{"gender":"Female","city":"Monkayo","total":93014.4921875,"average":93014.4921875,"min":93014.49,"max":93014.49}
+{"gender":"Female","city":"Ruokolahti","total":68351.2109375,"average":68351.2109375,"min":68351.21,"max":68351.21}
+{"gender":"Female","city":"Mrganush","total":35035.140625,"average":35035.140625,"min":35035.14,"max":35035.14}
+{"gender":"Female","city":"Presidencia Roque Sáenz Peña","total":63690.1796875,"average":63690.1796875,"min":63690.18,"max":63690.18}
+{"gender":"Female","city":"Trảng Bàng","total":43661.859375,"average":43661.859375,"min":43661.86,"max":43661.86}
+{"gender":"Female","city":"Bauchi","total":71556.4375,"average":71556.4375,"min":71556.44,"max":71556.44}
+{"gender":"Male","city":"Rouen","total":71799.0390625,"average":71799.0390625,"min":71799.04,"max":71799.04}
+{"gender":"Male","city":"Mabayo","total":89474.4375,"average":89474.4375,"min":89474.44,"max":89474.44}
+{"gender":"Female","city":"Citalahab","total":42011.1796875,"average":42011.1796875,"min":42011.18,"max":42011.18}
+{"gender":"Female","city":"Tayang","total":40708.5703125,"average":40708.5703125,"min":40708.57,"max":40708.57}
+{"gender":"Male","city":"San Quintin","total":31630.220703125,"average":31630.220703125,"min":31630.22,"max":31630.22}
+{"gender":"Male","city":"Santo Antônio do Monte","total":17283.25,"average":17283.25,"min":17283.25,"max":17283.25}
+{"gender":"Male","city":"Domsjö","total":79852.59375,"average":79852.59375,"min":79852.59,"max":79852.59}
+{"gender":"Male","city":"Mambi","total":59255.4296875,"average":59255.4296875,"min":59255.43,"max":59255.43}
+{"gender":"Male","city":"Brampton","total":13833.2998046875,"average":13833.2998046875,"min":13833.3,"max":13833.3}
+{"gender":"Male","city":"Obudovac","total":63695.12890625,"average":63695.12890625,"min":63695.13,"max":63695.13}
+{"gender":"Female","city":"Messina","total":69814.203125,"average":69814.203125,"min":69814.2,"max":69814.2}
+{"gender":"Male","city":"Kazanlŭk","total":80257.8984375,"average":80257.8984375,"min":80257.9,"max":80257.9}
+{"gender":"Female","city":"Nezlobnaya","total":20601.369140625,"average":20601.369140625,"min":20601.37,"max":20601.37}
+{"gender":"Female","city":"Sheshan","total":77840.7890625,"average":77840.7890625,"min":77840.79,"max":77840.79}
+{"gender":"Male","city":"Matsushima","total":74112.0703125,"average":74112.0703125,"min":74112.07,"max":74112.07}
+{"gender":"Female","city":"Ruda Maleniecka","total":74150.9765625,"average":74150.9765625,"min":74150.98,"max":74150.98}
+{"gender":"Female","city":"Krajan Sumurtawang","total":65823.5390625,"average":65823.5390625,"min":65823.54,"max":65823.54}
+{"gender":"Female","city":"Embu Guaçu","total":32996.12890625,"average":32996.12890625,"min":32996.13,"max":32996.13}
+{"gender":"Male","city":"Goubétto","total":64130.7890625,"average":64130.7890625,"min":64130.79,"max":64130.79}
+{"gender":"Female","city":"Chuanbu","total":29159.599609375,"average":29159.599609375,"min":29159.6,"max":29159.6}
+{"gender":"Female","city":"Kakata","total":90909.296875,"average":90909.296875,"min":90909.3,"max":90909.3}
+{"gender":"Female","city":"Balpyk Bī","total":34294.609375,"average":34294.609375,"min":34294.61,"max":34294.61}
+{"gender":"Female","city":"Las Vegas","total":97979.3125,"average":97979.3125,"min":97979.31,"max":97979.31}
+{"gender":"Female","city":"Ringinrejo","total":35211.46875,"average":35211.46875,"min":35211.47,"max":35211.47}
+{"gender":"Female","city":"Freiria","total":57323.4296875,"average":57323.4296875,"min":57323.43,"max":57323.43}
+{"gender":"Male","city":"Casal Galego","total":42110.03125,"average":42110.03125,"min":42110.03,"max":42110.03}
+{"gender":"Female","city":"Kesheng","total":20589.380859375,"average":20589.380859375,"min":20589.38,"max":20589.38}
+{"gender":"Male","city":"Prachin Buri","total":23920.369140625,"average":23920.369140625,"min":23920.37,"max":23920.37}
+{"gender":"Female","city":"Salvacion","total":90210.703125,"average":90210.703125,"min":90210.7,"max":90210.7}
+{"gender":"Female","city":"Gävle","total":94513.3203125,"average":94513.3203125,"min":94513.32,"max":94513.32}
+{"gender":"Female","city":"Tiandiba","total":11950.080078125,"average":11950.080078125,"min":11950.08,"max":11950.08}
+{"gender":"Female","city":"Gengwan","total":67073.359375,"average":67073.359375,"min":67073.36,"max":67073.36}
+{"gender":"Female","city":"Registro","total":43176.23046875,"average":43176.23046875,"min":43176.23,"max":43176.23}
+{"gender":"Male","city":"Évry","total":77843.6796875,"average":77843.6796875,"min":77843.68,"max":77843.68}
+{"gender":"Female","city":"Mocupe","total":89665.390625,"average":89665.390625,"min":89665.39,"max":89665.39}
+{"gender":"Male","city":"La Fortuna","total":82146.3125,"average":82146.3125,"min":82146.31,"max":82146.31}
+{"gender":"Male","city":"Trmice","total":41614.3515625,"average":41614.3515625,"min":41614.35,"max":41614.35}
+{"gender":"Female","city":"Daming","total":50157.94140625,"average":50157.94140625,"min":50157.94,"max":50157.94}
+{"gender":"Male","city":"Liljendal","total":36274.01171875,"average":36274.01171875,"min":36274.01,"max":36274.01}
+{"gender":"Male","city":"Chaloem Phra Kiat","total":54840.19921875,"average":54840.19921875,"min":54840.2,"max":54840.2}
+{"gender":"Male","city":"Sa’erhusong","total":89869.390625,"average":89869.390625,"min":89869.39,"max":89869.39}
+{"gender":"Male","city":"Guayaquil","total":59911.109375,"average":59911.109375,"min":59911.11,"max":59911.11}
+{"gender":"Female","city":"Brokopondo","total":48210.94921875,"average":48210.94921875,"min":48210.95,"max":48210.95}
+{"gender":"Male","city":"Jerada","total":60656.25,"average":60656.25,"min":60656.25,"max":60656.25}
+{"gender":"Female","city":"Kỳ Anh","total":42930.1796875,"average":42930.1796875,"min":42930.18,"max":42930.18}
+{"gender":"Female","city":"Santiago dos Velhos","total":19591.109375,"average":19591.109375,"min":19591.11,"max":19591.11}
+{"gender":"Male","city":"Dayr as Sūdān","total":78187.6484375,"average":78187.6484375,"min":78187.65,"max":78187.65}
+{"gender":"Male","city":"Gaopai","total":14528.73046875,"average":14528.73046875,"min":14528.73,"max":14528.73}
+{"gender":"Male","city":"Mozdok","total":31385.869140625,"average":31385.869140625,"min":31385.87,"max":31385.87}
+{"gender":"Male","city":"Tabaquite","total":45929.4609375,"average":45929.4609375,"min":45929.46,"max":45929.46}
+{"gender":"Male","city":"Starotitarovskaya","total":77556.3828125,"average":77556.3828125,"min":77556.38,"max":77556.38}
+{"gender":"Female","city":"Jiefang","total":76969.671875,"average":76969.671875,"min":76969.67,"max":76969.67}
+{"gender":"Female","city":"Tafeng","total":76648.15625,"average":76648.15625,"min":76648.16,"max":76648.16}
+{"gender":"Male","city":"Siguiri","total":43934.359375,"average":43934.359375,"min":43934.36,"max":43934.36}
+{"gender":"Female","city":"Hongjiaguan","total":94923.5703125,"average":94923.5703125,"min":94923.57,"max":94923.57}
+{"gender":"Female","city":"Mesopotam","total":99948.28125,"average":99948.28125,"min":99948.28,"max":99948.28}
+{"gender":"Female","city":"Saint Louis","total":36990.3203125,"average":36990.3203125,"min":36990.32,"max":36990.32}
+{"gender":"Male","city":"Partesh","total":65911.4609375,"average":65911.4609375,"min":65911.46,"max":65911.46}
+{"gender":"Male","city":"Bradenton","total":12246.73046875,"average":12246.73046875,"min":12246.73,"max":12246.73}
+{"gender":"Male","city":"Baku","total":66825.296875,"average":66825.296875,"min":66825.3,"max":66825.3}
+{"gender":"Male","city":"Thetford-Mines","total":93073.453125,"average":93073.453125,"min":93073.45,"max":93073.45}
+{"gender":"Female","city":"Krasna","total":72022.7890625,"average":72022.7890625,"min":72022.79,"max":72022.79}
+{"gender":"Female","city":"Yuktae-dong","total":99250.828125,"average":99250.828125,"min":99250.83,"max":99250.83}
+{"gender":"Male","city":"Ourtzagh","total":49494.98828125,"average":49494.98828125,"min":49494.99,"max":49494.99}
+{"gender":"Male","city":"Kultayevo","total":25707.7109375,"average":25707.7109375,"min":25707.71,"max":25707.71}
+{"gender":"Female","city":"Pombos","total":22153.990234375,"average":22153.990234375,"min":22153.99,"max":22153.99}
+{"gender":"Female","city":"Cocachacra","total":11077.080078125,"average":11077.080078125,"min":11077.08,"max":11077.08}
+{"gender":"Male","city":"Otradnaya","total":38294.01171875,"average":38294.01171875,"min":38294.01,"max":38294.01}
+{"gender":"Female","city":"Miyata","total":59339.3203125,"average":59339.3203125,"min":59339.32,"max":59339.32}
+{"gender":"Female","city":"Denver","total":32952.390625,"average":32952.390625,"min":32952.39,"max":32952.39}
+{"gender":"Male","city":"Kupu","total":49458.46875,"average":49458.46875,"min":49458.47,"max":49458.47}
+{"gender":"Female","city":"Nyaungdon","total":32445.609375,"average":32445.609375,"min":32445.61,"max":32445.61}
+{"gender":"Male","city":"Sinyavino","total":70980.1328125,"average":70980.1328125,"min":70980.13,"max":70980.13}
+{"gender":"Male","city":"Beiyang","total":83836.421875,"average":83836.421875,"min":83836.42,"max":83836.42}
+{"gender":"Female","city":"Webuye","total":99368.546875,"average":99368.546875,"min":99368.55,"max":99368.55}
+{"gender":"Male","city":"Melaka","total":135305.95703125,"average":67652.978515625,"min":40562.7,"max":94743.26}
+{"gender":"Female","city":"Jantake","total":48420.5,"average":48420.5,"min":48420.5,"max":48420.5}
+{"gender":"Male","city":"Finspång","total":94374.5703125,"average":94374.5703125,"min":94374.57,"max":94374.57}
+{"gender":"Female","city":"Dąbie","total":60123.609375,"average":60123.609375,"min":60123.61,"max":60123.61}
+{"gender":"Female","city":"Sanli","total":73174.1875,"average":73174.1875,"min":73174.19,"max":73174.19}
+{"gender":"Male","city":"Banjar Kelodan","total":51979.53125,"average":51979.53125,"min":51979.53,"max":51979.53}
+{"gender":"Male","city":"Pangawaren","total":96462.59375,"average":96462.59375,"min":96462.59,"max":96462.59}
+{"gender":"Male","city":"Boynton Beach","total":72537.7109375,"average":72537.7109375,"min":72537.71,"max":72537.71}
+{"gender":"Male","city":"Toyokawa","total":12215.9501953125,"average":12215.9501953125,"min":12215.95,"max":12215.95}
+{"gender":"Female","city":"Burnaby","total":27762.05078125,"average":27762.05078125,"min":27762.05,"max":27762.05}
+{"gender":"Male","city":"Xiang Ngeun","total":78336.59375,"average":78336.59375,"min":78336.59,"max":78336.59}
+{"gender":"Female","city":"Esfarāyen","total":39808.48046875,"average":39808.48046875,"min":39808.48,"max":39808.48}
+{"gender":"Male","city":"Foros do Trapo","total":42135.671875,"average":42135.671875,"min":42135.67,"max":42135.67}
+{"gender":"Male","city":"Zhongcheng","total":99942.921875,"average":99942.921875,"min":99942.92,"max":99942.92}
+{"gender":"Female","city":"Soca","total":44953.48828125,"average":44953.48828125,"min":44953.49,"max":44953.49}
+{"gender":"Male","city":"Runović","total":58200.359375,"average":58200.359375,"min":58200.36,"max":58200.36}
+{"gender":"Male","city":"Berber","total":73827.8515625,"average":73827.8515625,"min":73827.85,"max":73827.85}
+{"gender":"Male","city":"Banyuresmi","total":54164.41015625,"average":54164.41015625,"min":54164.41,"max":54164.41}
+{"gender":"Female","city":"São Brás de Alportel","total":96823.1328125,"average":96823.1328125,"min":96823.13,"max":96823.13}
+{"gender":"Female","city":"Bojongbenteng","total":80564.109375,"average":80564.109375,"min":80564.11,"max":80564.11}
+{"gender":"Female","city":"Madimba","total":98737.8671875,"average":98737.8671875,"min":98737.87,"max":98737.87}
+{"gender":"Male","city":"Changuinola","total":53137.80078125,"average":53137.80078125,"min":53137.8,"max":53137.8}
+{"gender":"Male","city":"Wugong","total":62823.109375,"average":62823.109375,"min":62823.11,"max":62823.11}
+{"gender":"Female","city":"Sabang","total":68018.328125,"average":68018.328125,"min":68018.33,"max":68018.33}
+{"gender":"Female","city":"Chon Buri","total":69145.890625,"average":69145.890625,"min":69145.89,"max":69145.89}
+{"gender":"Male","city":"Carreira","total":69829.640625,"average":69829.640625,"min":69829.64,"max":69829.64}
+{"gender":"Female","city":"Ōami","total":36984.44140625,"average":36984.44140625,"min":36984.44,"max":36984.44}
+{"gender":"Female","city":"Miaoya","total":83226.421875,"average":83226.421875,"min":83226.42,"max":83226.42}
+{"gender":"Male","city":"Ferrol","total":19025.720703125,"average":19025.720703125,"min":19025.72,"max":19025.72}
+{"gender":"Female","city":"Laban","total":87988.09375,"average":87988.09375,"min":87988.09,"max":87988.09}
+{"gender":"Female","city":"Lomme","total":72160.421875,"average":72160.421875,"min":72160.42,"max":72160.42}
+{"gender":"Male","city":"Pignon","total":66709.453125,"average":66709.453125,"min":66709.45,"max":66709.45}
+{"gender":"Male","city":"Kadurahayu","total":56496.75,"average":56496.75,"min":56496.75,"max":56496.75}
+{"gender":"Female","city":"Dahuangwei","total":66687.59375,"average":66687.59375,"min":66687.59,"max":66687.59}
+{"gender":"Male","city":"Aguaí","total":56279.890625,"average":56279.890625,"min":56279.89,"max":56279.89}
+{"gender":"Male","city":"Prusice","total":55731.78125,"average":55731.78125,"min":55731.78,"max":55731.78}
+{"gender":"Female","city":"Ayorou","total":42273.421875,"average":42273.421875,"min":42273.42,"max":42273.42}
+{"gender":"Male","city":"Ḩajjah","total":52017.76953125,"average":52017.76953125,"min":52017.77,"max":52017.77}
+{"gender":"Male","city":"Boto","total":42845.12109375,"average":42845.12109375,"min":42845.12,"max":42845.12}
+{"gender":"Male","city":"Xiyuan","total":58076.48828125,"average":58076.48828125,"min":58076.49,"max":58076.49}
+{"gender":"Male","city":"Filipowice","total":35960.890625,"average":35960.890625,"min":35960.89,"max":35960.89}
+{"gender":"Male","city":"Santo Tomas","total":88195.8125,"average":88195.8125,"min":88195.81,"max":88195.81}
+{"gender":"Female","city":"Hekou","total":27902.3203125,"average":27902.3203125,"min":27902.32,"max":27902.32}
+{"gender":"Male","city":"Katima Mulilo","total":96665.2421875,"average":96665.2421875,"min":96665.24,"max":96665.24}
+{"gender":"Male","city":"Telč","total":22420.7109375,"average":22420.7109375,"min":22420.71,"max":22420.71}
+{"gender":"Female","city":"Lobuk","total":12908.3798828125,"average":12908.3798828125,"min":12908.38,"max":12908.38}
+{"gender":"Male","city":"Karney Shomron","total":92758.2578125,"average":92758.2578125,"min":92758.26,"max":92758.26}
+{"gender":"Female","city":"Sacanta","total":78262.1484375,"average":78262.1484375,"min":78262.15,"max":78262.15}
+{"gender":"Female","city":"Manolás","total":97232.78125,"average":97232.78125,"min":97232.78,"max":97232.78}
+{"gender":"Female","city":"Puger","total":58241.1796875,"average":58241.1796875,"min":58241.18,"max":58241.18}
+{"gender":"Male","city":"Mabai","total":92910.71875,"average":92910.71875,"min":92910.72,"max":92910.72}
+{"gender":"Male","city":"Corpus","total":35178.1796875,"average":35178.1796875,"min":35178.18,"max":35178.18}
+{"gender":"Male","city":"Lluchubamba","total":84527.0625,"average":84527.0625,"min":84527.06,"max":84527.06}
+{"gender":"Male","city":"Xijiao","total":46200.7607421875,"average":23100.38037109375,"min":13708.03,"max":32492.73}
+{"gender":"Female","city":"Gharyan","total":98679.3125,"average":98679.3125,"min":98679.31,"max":98679.31}
+{"gender":"Male","city":"Handaqi","total":37728.6796875,"average":37728.6796875,"min":37728.68,"max":37728.68}
+{"gender":"Male","city":"Chubek","total":69175.7265625,"average":69175.7265625,"min":69175.73,"max":69175.73}
+{"gender":"Male","city":"Umeå","total":65110.05859375,"average":65110.05859375,"min":65110.06,"max":65110.06}
+{"gender":"Female","city":"Pyshchug","total":22658.3203125,"average":22658.3203125,"min":22658.32,"max":22658.32}
+{"gender":"Female","city":"Cacheu","total":13772.8203125,"average":13772.8203125,"min":13772.82,"max":13772.82}
+{"gender":"Male","city":"Sumurgayam","total":84911.09375,"average":84911.09375,"min":84911.09,"max":84911.09}
+{"gender":"Female","city":"Silikatnyy","total":37492.578125,"average":37492.578125,"min":37492.58,"max":37492.58}
+{"gender":"Female","city":"Ambelókipoi","total":16676.560546875,"average":16676.560546875,"min":16676.56,"max":16676.56}
+{"gender":"Female","city":"Grenoble","total":91579.9296875,"average":91579.9296875,"min":91579.93,"max":91579.93}
+{"gender":"Female","city":"Katsuta","total":79717.859375,"average":79717.859375,"min":79717.86,"max":79717.86}
+{"gender":"Male","city":"Ortega","total":55226.87109375,"average":55226.87109375,"min":55226.87,"max":55226.87}
+{"gender":"Male","city":"Longtan","total":21357.30078125,"average":21357.30078125,"min":21357.3,"max":21357.3}
+{"gender":"Male","city":"Bryansk","total":65252.3203125,"average":65252.3203125,"min":65252.32,"max":65252.32}
+{"gender":"Male","city":"Puerto Galera","total":57799.69921875,"average":57799.69921875,"min":57799.7,"max":57799.7}
+{"gender":"Female","city":"Lanús","total":86294.59375,"average":86294.59375,"min":86294.59,"max":86294.59}
+{"gender":"Female","city":"Angol","total":43413.1484375,"average":43413.1484375,"min":43413.15,"max":43413.15}
+{"gender":"Female","city":"Duowa","total":94301.46875,"average":94301.46875,"min":94301.47,"max":94301.47}
+{"gender":"Male","city":"Gualmatán","total":88032.40625,"average":88032.40625,"min":88032.41,"max":88032.41}
+{"gender":"Female","city":"Punta de Piedra","total":40385.80859375,"average":40385.80859375,"min":40385.81,"max":40385.81}
+{"gender":"Male","city":"Pétionville","total":89197.4375,"average":89197.4375,"min":89197.44,"max":89197.44}
+{"gender":"Female","city":"Duozhu","total":71416.859375,"average":71416.859375,"min":71416.86,"max":71416.86}
+{"gender":"Male","city":"Ardabīl","total":64998.87890625,"average":64998.87890625,"min":64998.88,"max":64998.88}
+{"gender":"Male","city":"Ust’-Abakan","total":54245.94140625,"average":54245.94140625,"min":54245.94,"max":54245.94}
+{"gender":"Female","city":"Rajapeni","total":27026.69921875,"average":27026.69921875,"min":27026.7,"max":27026.7}
+{"gender":"Male","city":"Guohua","total":48229.48046875,"average":48229.48046875,"min":48229.48,"max":48229.48}
+{"gender":"Male","city":"Shiren","total":56867.78125,"average":56867.78125,"min":56867.78,"max":56867.78}
+{"gender":"Male","city":"Chimen","total":74106.140625,"average":74106.140625,"min":74106.14,"max":74106.14}
+{"gender":"Female","city":"Nîmes","total":42246.87109375,"average":42246.87109375,"min":42246.87,"max":42246.87}
+{"gender":"Male","city":"Comillas Norte","total":47990.33984375,"average":47990.33984375,"min":47990.34,"max":47990.34}
+{"gender":"Female","city":"Ingeniero Guillermo N. Juárez","total":80058.4296875,"average":80058.4296875,"min":80058.43,"max":80058.43}
+{"gender":"Female","total":57576.51953125,"average":57576.51953125,"min":57576.52,"max":57576.52}
+{"gender":"Male","city":"Munkfors","total":85289.15625,"average":85289.15625,"min":85289.16,"max":85289.16}
+{"gender":"Female","city":"Mattawa","total":87553.7265625,"average":87553.7265625,"min":87553.73,"max":87553.73}
+{"gender":"Male","city":"Michałów","total":52960.87890625,"average":52960.87890625,"min":52960.88,"max":52960.88}
+{"gender":"Female","city":"Mungwi","total":80418.2578125,"average":80418.2578125,"min":80418.26,"max":80418.26}
+{"gender":"Male","city":"Roma","total":50699.30859375,"average":50699.30859375,"min":50699.31,"max":50699.31}
+{"gender":"Male","city":"Hongos","total":81534.609375,"average":81534.609375,"min":81534.61,"max":81534.61}
+{"gender":"Male","city":"Margahayukencana","total":74381.3203125,"average":74381.3203125,"min":74381.32,"max":74381.32}
+{"gender":"Female","city":"Hollola","total":93969.0390625,"average":93969.0390625,"min":93969.04,"max":93969.04}
+{"gender":"Female","city":"Cassanayan","total":16314.7900390625,"average":16314.7900390625,"min":16314.79,"max":16314.79}
+{"gender":"Female","city":"Skellefteå","total":54621.01171875,"average":54621.01171875,"min":54621.01,"max":54621.01}
+{"gender":"Male","city":"Pirca","total":74364.109375,"average":74364.109375,"min":74364.11,"max":74364.11}
+{"gender":"Female","city":"Philadelphia","total":28222.830078125,"average":28222.830078125,"min":28222.83,"max":28222.83}
+{"gender":"Male","city":"Oss","total":40392.23828125,"average":40392.23828125,"min":40392.24,"max":40392.24}
+{"gender":"Male","city":"Kashima","total":60796.01953125,"average":60796.01953125,"min":60796.02,"max":60796.02}
+{"gender":"Male","city":"Chrást","total":40163.03125,"average":40163.03125,"min":40163.03,"max":40163.03}
+{"gender":"Female","city":"Huangshi","total":98690.34375,"average":98690.34375,"min":98690.34,"max":98690.34}
+{"gender":"Male","city":"Cuogang","total":202341.990234375,"average":50585.49755859375,"min":11832.43,"max":82505.36}
+{"gender":"Male","city":"Balahovit","total":74464.2578125,"average":74464.2578125,"min":74464.26,"max":74464.26}
+{"gender":"Male","city":"Hauhena","total":38597.390625,"average":38597.390625,"min":38597.39,"max":38597.39}
+{"gender":"Female","city":"Leticia","total":18561.109375,"average":18561.109375,"min":18561.11,"max":18561.11}
+{"gender":"Male","city":"Puyuan","total":11224.169921875,"average":11224.169921875,"min":11224.17,"max":11224.17}
+{"gender":"Male","city":"Amphawa","total":76400.890625,"average":76400.890625,"min":76400.89,"max":76400.89}
+{"gender":"Female","city":"El Salitre","total":94859.078125,"average":94859.078125,"min":94859.08,"max":94859.08}
+{"gender":"Female","city":"Topeka","total":71772.2734375,"average":71772.2734375,"min":71772.27,"max":71772.27}
+{"gender":"Male","city":"Pasiraman","total":60930.23046875,"average":60930.23046875,"min":60930.23,"max":60930.23}
+{"gender":"Female","city":"Megalópoli","total":17299.619140625,"average":17299.619140625,"min":17299.62,"max":17299.62}
+{"gender":"Female","city":"Yanjiang","total":20768.759765625,"average":20768.759765625,"min":20768.76,"max":20768.76}
+{"gender":"Female","city":"Wojcieszków","total":18163.55078125,"average":18163.55078125,"min":18163.55,"max":18163.55}
+{"gender":"Male","city":"Kizlyar","total":69030.34375,"average":69030.34375,"min":69030.34,"max":69030.34}
+{"gender":"Male","city":"Kastornoye","total":23794.1796875,"average":23794.1796875,"min":23794.18,"max":23794.18}
+{"gender":"Female","city":"Getengan","total":23843.060546875,"average":23843.060546875,"min":23843.06,"max":23843.06}
+{"gender":"Male","city":"Tomsk","total":16504.220703125,"average":16504.220703125,"min":16504.22,"max":16504.22}
+{"gender":"Male","city":"Zhuanqukou","total":36208.1796875,"average":36208.1796875,"min":36208.18,"max":36208.18}
+{"gender":"Female","city":"Schiedam postbusnummers","total":59352.01953125,"average":59352.01953125,"min":59352.02,"max":59352.02}
+{"gender":"Female","city":"Glatik","total":19941.029296875,"average":19941.029296875,"min":19941.03,"max":19941.03}
+{"gender":"Female","city":"Fosca","total":89451.1328125,"average":89451.1328125,"min":89451.13,"max":89451.13}
+{"gender":"Male","city":"Koygorodok","total":52016.98828125,"average":52016.98828125,"min":52016.99,"max":52016.99}
+{"gender":"Male","city":"Tanjungluar","total":38955.69921875,"average":19477.849609375,"min":16866.41,"max":22089.29}
+{"gender":"Female","city":"Uherce Mineralne","total":47953.6015625,"average":47953.6015625,"min":47953.6,"max":47953.6}
+{"gender":"Female","city":"Mieścisko","total":70627.009765625,"average":35313.5048828125,"min":18764.53,"max":51862.48}
+{"gender":"Male","city":"Hénin-Beaumont","total":55082.75,"average":55082.75,"min":55082.75,"max":55082.75}
+{"gender":"Male","city":"Nong Muang Khai","total":42221.44921875,"average":42221.44921875,"min":42221.45,"max":42221.45}
+{"gender":"Male","city":"Bual","total":63399.421875,"average":63399.421875,"min":63399.42,"max":63399.42}
+{"gender":"Male","city":"San Juan Nepomuceno","total":14139.3203125,"average":14139.3203125,"min":14139.32,"max":14139.32}
+{"gender":"Male","city":"Cergy-Pontoise","total":62163.80078125,"average":62163.80078125,"min":62163.8,"max":62163.8}
+{"gender":"Female","city":"Stanisław Górny","total":59112.5,"average":59112.5,"min":59112.5,"max":59112.5}
+{"gender":"Male","city":"Shreveport","total":55344.4609375,"average":55344.4609375,"min":55344.46,"max":55344.46}
+{"gender":"Female","city":"Leżajsk","total":90527.21875,"average":90527.21875,"min":90527.22,"max":90527.22}
+{"gender":"Male","city":"San Carlos","total":25091.419921875,"average":25091.419921875,"min":25091.42,"max":25091.42}
+{"gender":"Female","city":"Rio das Ostras","total":47099.8515625,"average":47099.8515625,"min":47099.85,"max":47099.85}
+{"gender":"Female","city":"Ust’-Kut","total":50676.26953125,"average":50676.26953125,"min":50676.27,"max":50676.27}
+{"gender":"Female","city":"Kenscoff","total":25525.55078125,"average":25525.55078125,"min":25525.55,"max":25525.55}
+{"gender":"Female","city":"Lleida","total":18892.4609375,"average":18892.4609375,"min":18892.46,"max":18892.46}
+{"gender":"Male","city":"Ji’an","total":91555.609375,"average":91555.609375,"min":91555.61,"max":91555.61}
+{"gender":"Male","city":"Ryazanskaya","total":56653.69921875,"average":56653.69921875,"min":56653.7,"max":56653.7}
+{"gender":"Male","city":"Tengah","total":39837.19140625,"average":39837.19140625,"min":39837.19,"max":39837.19}
+{"gender":"Male","city":"Misasi","total":20105.439453125,"average":20105.439453125,"min":20105.44,"max":20105.44}
+{"gender":"Female","city":"Gaohe","total":25341.6796875,"average":25341.6796875,"min":25341.68,"max":25341.68}
+{"gender":"Female","city":"Ipala","total":87266.7734375,"average":87266.7734375,"min":87266.77,"max":87266.77}
+{"gender":"Male","city":"Komletinci","total":60304.2890625,"average":60304.2890625,"min":60304.29,"max":60304.29}
+{"gender":"Male","city":"Nalinggou","total":65765.4921875,"average":65765.4921875,"min":65765.49,"max":65765.49}
+{"gender":"Female","city":"El Cardo","total":13604.6298828125,"average":13604.6298828125,"min":13604.63,"max":13604.63}
+{"gender":"Female","city":"Xiongzhang","total":88610.2421875,"average":88610.2421875,"min":88610.24,"max":88610.24}
+{"gender":"Female","city":"Guihulñgan","total":23657.919921875,"average":23657.919921875,"min":23657.92,"max":23657.92}
+{"gender":"Female","city":"Sanxing","total":61419.55078125,"average":61419.55078125,"min":61419.55,"max":61419.55}
+{"gender":"Female","city":"Santa Rita","total":10766.4296875,"average":10766.4296875,"min":10766.43,"max":10766.43}
+{"gender":"Male","city":"La Rioja","total":28421.009765625,"average":28421.009765625,"min":28421.01,"max":28421.01}
+{"gender":"Male","city":"Caper","total":78102.84375,"average":78102.84375,"min":78102.84,"max":78102.84}
+{"gender":"Male","city":"Sułkowice","total":33432.98828125,"average":33432.98828125,"min":33432.99,"max":33432.99}
+{"gender":"Male","city":"Mexico","total":57861.7890625,"average":57861.7890625,"min":57861.79,"max":57861.79}
+{"gender":"Male","city":"Litvínov","total":35105.3515625,"average":35105.3515625,"min":35105.35,"max":35105.35}
+{"gender":"Female","city":"Juvisy-sur-Orge","total":98177.4765625,"average":98177.4765625,"min":98177.48,"max":98177.48}
+{"gender":"Male","city":"Cầu Giấy","total":17626.640625,"average":17626.640625,"min":17626.64,"max":17626.64}
+{"gender":"Female","city":"Zhenyuan","total":24102.94921875,"average":24102.94921875,"min":24102.95,"max":24102.95}
+{"gender":"Male","city":"Bilohirs’k","total":51271.98828125,"average":51271.98828125,"min":51271.99,"max":51271.99}
+{"gender":"Male","city":"Asopía","total":72816.5390625,"average":72816.5390625,"min":72816.54,"max":72816.54}
+{"gender":"Female","city":"Tazouta","total":73737.71875,"average":73737.71875,"min":73737.72,"max":73737.72}
+{"gender":"Male","city":"Lancaster","total":68961.703125,"average":68961.703125,"min":68961.7,"max":68961.7}
+{"gender":"Male","city":"Kebon","total":50278.8984375,"average":50278.8984375,"min":50278.9,"max":50278.9}
+{"gender":"Female","city":"Jiashi","total":23456.669921875,"average":23456.669921875,"min":23456.67,"max":23456.67}
+{"gender":"Female","city":"Murmashi","total":98226.15625,"average":98226.15625,"min":98226.16,"max":98226.16}
+{"gender":"Female","city":"Bamencheng","total":15755.3603515625,"average":15755.3603515625,"min":15755.36,"max":15755.36}
+{"gender":"Female","city":"Sarmanovo","total":12788.1298828125,"average":12788.1298828125,"min":12788.13,"max":12788.13}
+{"gender":"Male","city":"Nggalak","total":31690.720703125,"average":31690.720703125,"min":31690.72,"max":31690.72}
+{"gender":"Female","city":"Whitwell","total":71226.890625,"average":71226.890625,"min":71226.89,"max":71226.89}
+{"gender":"Female","city":"Sibbo","total":16687.099609375,"average":16687.099609375,"min":16687.1,"max":16687.1}
+{"gender":"Female","city":"Kunting","total":94702.5,"average":94702.5,"min":94702.5,"max":94702.5}
+{"gender":"Male","city":"Karlovy Vary","total":46071.12890625,"average":46071.12890625,"min":46071.13,"max":46071.13}
+{"gender":"Female","city":"Fonte Boa","total":30039.869140625,"average":30039.869140625,"min":30039.87,"max":30039.87}
+{"gender":"Female","city":"Oygon","total":64614.46875,"average":64614.46875,"min":64614.47,"max":64614.47}
+{"gender":"Male","city":"Irirum","total":77809.5078125,"average":77809.5078125,"min":77809.51,"max":77809.51}
+{"gender":"Female","city":"Ampanihy","total":95283.96875,"average":95283.96875,"min":95283.97,"max":95283.97}
+{"gender":"Male","city":"Dokuchayevs’k","total":59545.48046875,"average":59545.48046875,"min":59545.48,"max":59545.48}
+{"gender":"Male","city":"Xin’e","total":62755.8515625,"average":62755.8515625,"min":62755.85,"max":62755.85}
+{"gender":"Female","city":"Kaiapoi","total":51894.05859375,"average":51894.05859375,"min":51894.06,"max":51894.06}
+{"gender":"Female","city":"Baoshui","total":11084.33984375,"average":11084.33984375,"min":11084.34,"max":11084.34}
+{"gender":"Male","city":"Shamakhi","total":65228.6796875,"average":65228.6796875,"min":65228.68,"max":65228.68}
+{"gender":"Male","city":"Périgny","total":62022.921875,"average":62022.921875,"min":62022.92,"max":62022.92}
+{"gender":"Male","city":"Polańczyk","total":98086.046875,"average":98086.046875,"min":98086.05,"max":98086.05}
+{"gender":"Male","city":"Las Minas","total":52100.578125,"average":52100.578125,"min":52100.58,"max":52100.58}
+{"gender":"Male","city":"Az Zuwaytīnah","total":29417.7109375,"average":29417.7109375,"min":29417.71,"max":29417.71}
+{"gender":"Male","city":"Paris 02","total":44940.19921875,"average":44940.19921875,"min":44940.2,"max":44940.2}
+{"gender":"Male","city":"Soi Dao","total":69526.2265625,"average":69526.2265625,"min":69526.23,"max":69526.23}
+{"gender":"Female","city":"Kajaani","total":20224.83984375,"average":20224.83984375,"min":20224.84,"max":20224.84}
+{"gender":"Male","city":"Trang","total":93239.1875,"average":93239.1875,"min":93239.19,"max":93239.19}
+{"gender":"Female","city":"Al Badārī","total":94889.5078125,"average":94889.5078125,"min":94889.51,"max":94889.51}
+{"gender":"Male","city":"Villa del Rosario","total":52018.4609375,"average":52018.4609375,"min":52018.46,"max":52018.46}
+{"gender":"Female","city":"Varadero","total":66530.3984375,"average":66530.3984375,"min":66530.4,"max":66530.4}
+{"gender":"Female","city":"Esuk Oron","total":30995.490234375,"average":30995.490234375,"min":30995.49,"max":30995.49}
+{"gender":"Male","city":"Argostólion","total":12281.2001953125,"average":12281.2001953125,"min":12281.2,"max":12281.2}
+{"gender":"Male","city":"Antas","total":92500.9609375,"average":92500.9609375,"min":92500.96,"max":92500.96}
+{"gender":"Female","city":"San Andres","total":52426.80078125,"average":52426.80078125,"min":52426.8,"max":52426.8}
+{"gender":"Female","city":"Chifeng","total":41790.2890625,"average":41790.2890625,"min":41790.29,"max":41790.29}
+{"gender":"Female","city":"Nan’ao","total":95218.390625,"average":95218.390625,"min":95218.39,"max":95218.39}
+{"gender":"Male","city":"Bangbayang Kaler","total":48986.37890625,"average":48986.37890625,"min":48986.38,"max":48986.38}
+{"gender":"Male","city":"Guarenas","total":52773.30859375,"average":52773.30859375,"min":52773.31,"max":52773.31}
+{"gender":"Female","city":"Limenária","total":66705.7265625,"average":66705.7265625,"min":66705.73,"max":66705.73}
+{"gender":"Male","city":"Modimolle","total":74282.859375,"average":74282.859375,"min":74282.86,"max":74282.86}
+{"gender":"Male","city":"Glinka","total":94839.5625,"average":94839.5625,"min":94839.56,"max":94839.56}
+{"gender":"Female","city":"Jiupu","total":35165.421875,"average":35165.421875,"min":35165.42,"max":35165.42}
+{"gender":"Female","city":"Gongdao","total":40437.2890625,"average":40437.2890625,"min":40437.29,"max":40437.29}
+{"gender":"Female","city":"Dahua","total":28120.009765625,"average":28120.009765625,"min":28120.01,"max":28120.01}
+{"gender":"Male","city":"Oleiros","total":89036.109375,"average":89036.109375,"min":89036.11,"max":89036.11}
+{"gender":"Female","city":"Kamnica","total":34518.87109375,"average":34518.87109375,"min":34518.87,"max":34518.87}
+{"gender":"Male","city":"Nanortalik","total":33966.41015625,"average":33966.41015625,"min":33966.41,"max":33966.41}
+{"gender":"Male","city":"Zinder","total":99222.84375,"average":99222.84375,"min":99222.84,"max":99222.84}
+{"gender":"Male","city":"Kuantan","total":66460.2734375,"average":66460.2734375,"min":66460.27,"max":66460.27}
+{"gender":"Male","city":"Pochep","total":26416.619140625,"average":26416.619140625,"min":26416.62,"max":26416.62}
+{"gender":"Female","city":"Šluknov","total":49332.48046875,"average":49332.48046875,"min":49332.48,"max":49332.48}
+{"gender":"Female","city":"Beishidian","total":21091.80078125,"average":21091.80078125,"min":21091.8,"max":21091.8}
+{"gender":"Male","city":"Islamey","total":93275.421875,"average":93275.421875,"min":93275.42,"max":93275.42}
+{"gender":"Female","city":"Sumberagung","total":44627.30078125,"average":44627.30078125,"min":44627.3,"max":44627.3}
+{"gender":"Female","city":"Calebasses","total":77236.359375,"average":77236.359375,"min":77236.36,"max":77236.36}
+{"gender":"Male","city":"Lizhai","total":88602.7421875,"average":88602.7421875,"min":88602.74,"max":88602.74}
+{"gender":"Female","city":"Mojo","total":59886.05078125,"average":59886.05078125,"min":59886.05,"max":59886.05}
+{"gender":"Male","city":"Gajrug","total":46117.51953125,"average":46117.51953125,"min":46117.52,"max":46117.52}
+{"gender":"Female","city":"Palumbungan","total":63733.05078125,"average":63733.05078125,"min":63733.05,"max":63733.05}
+{"gender":"Female","city":"Pangnirtung","total":94224.4765625,"average":94224.4765625,"min":94224.48,"max":94224.48}
+{"gender":"Male","city":"Monte Leite","total":32623.849609375,"average":32623.849609375,"min":32623.85,"max":32623.85}
+{"gender":"Male","city":"Xindian","total":57804.078125,"average":57804.078125,"min":57804.08,"max":57804.08}
+{"gender":"Female","city":"Bertioga","total":28885.490234375,"average":28885.490234375,"min":28885.49,"max":28885.49}
+{"gender":"Male","city":"Guimbal","total":22341.169921875,"average":22341.169921875,"min":22341.17,"max":22341.17}
+{"gender":"Male","city":"Xin’an","total":49331.3984375,"average":49331.3984375,"min":49331.4,"max":49331.4}
+{"gender":"Male","city":"Zhuxi","total":15849.419921875,"average":15849.419921875,"min":15849.42,"max":15849.42}
+{"gender":"Male","city":"Palmas De Gran Canaria, Las","total":91642.2421875,"average":91642.2421875,"min":91642.24,"max":91642.24}
+{"gender":"Male","city":"Villa Paula de Sarmiento","total":94648.5078125,"average":94648.5078125,"min":94648.51,"max":94648.51}
+{"gender":"Male","city":"Yanglin","total":13149.16015625,"average":13149.16015625,"min":13149.16,"max":13149.16}
+{"gender":"Female","city":"Lindavista","total":66461.7109375,"average":66461.7109375,"min":66461.71,"max":66461.71}
+{"gender":"Female","city":"Donostia-San Sebastian","total":69239.2109375,"average":69239.2109375,"min":69239.21,"max":69239.21}
+{"gender":"Female","city":"Santa Tecla","total":57635.05078125,"average":57635.05078125,"min":57635.05,"max":57635.05}
+{"gender":"Male","city":"Horodyshche","total":23203.4296875,"average":23203.4296875,"min":23203.43,"max":23203.43}
+{"gender":"Female","city":"Cértegui","total":21951.41015625,"average":21951.41015625,"min":21951.41,"max":21951.41}
+{"gender":"Male","city":"Montecillo","total":94615.4765625,"average":94615.4765625,"min":94615.48,"max":94615.48}
+{"gender":"Female","city":"Nanzhao Chengguanzhen","total":84407.046875,"average":84407.046875,"min":84407.05,"max":84407.05}
+{"gender":"Male","city":"Nar'yan-Mar","total":21311.740234375,"average":21311.740234375,"min":21311.74,"max":21311.74}
+{"gender":"Female","city":"Virginia","total":67823.453125,"average":67823.453125,"min":67823.45,"max":67823.45}
+{"gender":"Male","city":"Panggungrejo","total":69033.203125,"average":69033.203125,"min":69033.2,"max":69033.2}
+{"gender":"Female","city":"Xitou","total":71279.6015625,"average":71279.6015625,"min":71279.6,"max":71279.6}
+{"gender":"Female","city":"Isfahan","total":30201.3203125,"average":30201.3203125,"min":30201.32,"max":30201.32}
+{"gender":"Male","city":"Petrovsk","total":14012.830078125,"average":14012.830078125,"min":14012.83,"max":14012.83}
+{"gender":"Male","city":"Bailang","total":86886.6171875,"average":86886.6171875,"min":86886.62,"max":86886.62}
+{"gender":"Female","city":"Dongtou","total":72644.7421875,"average":72644.7421875,"min":72644.74,"max":72644.74}
+{"gender":"Male","city":"Lamego","total":64970.8515625,"average":64970.8515625,"min":64970.85,"max":64970.85}
+{"gender":"Male","city":"Gyodong","total":74819.5234375,"average":74819.5234375,"min":74819.52,"max":74819.52}
+{"gender":"Male","city":"Jandir","total":90918.6171875,"average":90918.6171875,"min":90918.62,"max":90918.62}
+{"gender":"Female","city":"Tromsø","total":43382.6015625,"average":43382.6015625,"min":43382.6,"max":43382.6}
+{"gender":"Female","city":"Cuogang","total":10908.2197265625,"average":10908.2197265625,"min":10908.22,"max":10908.22}
+{"gender":"Male","city":"Pindi Gheb","total":72878.359375,"average":72878.359375,"min":72878.36,"max":72878.36}
+{"gender":"Female","city":"Heshui","total":85375.9296875,"average":85375.9296875,"min":85375.93,"max":85375.93}
+{"gender":"Female","city":"Mineralnye Vody","total":73810.3671875,"average":73810.3671875,"min":73810.37,"max":73810.37}
+{"gender":"Female","city":"Xinzhou","total":81861.8828125,"average":81861.8828125,"min":81861.88,"max":81861.88}
+{"gender":"Female","city":"Gostovići","total":88810.4609375,"average":88810.4609375,"min":88810.46,"max":88810.46}
+{"gender":"Male","city":"Kratié","total":32657.16015625,"average":32657.16015625,"min":32657.16,"max":32657.16}
+{"gender":"Male","city":"Lengshuitan","total":94971.4921875,"average":94971.4921875,"min":94971.49,"max":94971.49}
+{"gender":"Female","city":"Noling","total":64281.87890625,"average":64281.87890625,"min":64281.88,"max":64281.88}
+{"gender":"Male","city":"Godong","total":39141.7109375,"average":39141.7109375,"min":39141.71,"max":39141.71}
+{"gender":"Female","city":"Yŏnan-ŭp","total":98628.609375,"average":98628.609375,"min":98628.61,"max":98628.61}
+{"gender":"Male","city":"Ad Dimnah","total":70973.3515625,"average":70973.3515625,"min":70973.35,"max":70973.35}
+{"gender":"Female","city":"Kupiskis","total":85799.53125,"average":85799.53125,"min":85799.53,"max":85799.53}
+{"gender":"Female","city":"Pasirreungit","total":93902.3671875,"average":93902.3671875,"min":93902.37,"max":93902.37}
+{"gender":"Female","city":"Město","total":27797.98046875,"average":27797.98046875,"min":27797.98,"max":27797.98}
+{"gender":"Male","city":"Asahi","total":22727.94921875,"average":22727.94921875,"min":22727.95,"max":22727.95}
+{"gender":"Male","city":"Warmare","total":90661.4609375,"average":90661.4609375,"min":90661.46,"max":90661.46}
+{"gender":"Male","city":"Chorente","total":27607.599609375,"average":27607.599609375,"min":27607.6,"max":27607.6}
+{"gender":"Male","city":"West Jerusalem","total":71282.2890625,"average":71282.2890625,"min":71282.29,"max":71282.29}
+{"gender":"Male","city":"Puutuga","total":19122.990234375,"average":19122.990234375,"min":19122.99,"max":19122.99}
+{"gender":"Male","city":"Gaspar Hernández","total":26604.380859375,"average":26604.380859375,"min":26604.38,"max":26604.38}
+{"gender":"Male","city":"Velyka Lepetykha","total":66552.3203125,"average":66552.3203125,"min":66552.32,"max":66552.32}
+{"gender":"Male","city":"Jetafe","total":45643.01953125,"average":45643.01953125,"min":45643.02,"max":45643.02}
+{"gender":"Female","city":"Copán","total":110448.125,"average":55224.0625,"min":40069.9,"max":70378.23}
+{"gender":"Female","city":"Tlatah","total":53573.19140625,"average":53573.19140625,"min":53573.19,"max":53573.19}
+{"gender":"Female","city":"Predavac","total":42166.96875,"average":42166.96875,"min":42166.97,"max":42166.97}
+{"gender":"Male","city":"Kylmäkoski","total":71013.5625,"average":71013.5625,"min":71013.56,"max":71013.56}
+{"gender":"Male","city":"Buawan","total":40183.5,"average":40183.5,"min":40183.5,"max":40183.5}
+{"gender":"Female","city":"Tambulatana","total":26980.55078125,"average":26980.55078125,"min":26980.55,"max":26980.55}
+{"gender":"Female","city":"Rozkishne","total":29384.720703125,"average":29384.720703125,"min":29384.72,"max":29384.72}
+{"gender":"Male","city":"Ovruch","total":40880.0,"average":40880.0,"min":40880.0,"max":40880.0}
+{"gender":"Female","city":"Kavýli","total":63792.2109375,"average":63792.2109375,"min":63792.21,"max":63792.21}
+{"gender":"Female","city":"Guay","total":88156.0,"average":88156.0,"min":88156.0,"max":88156.0}
+{"gender":"Male","city":"Wangchang","total":36927.53125,"average":36927.53125,"min":36927.53,"max":36927.53}
+{"gender":"Female","city":"Dengok","total":28369.849609375,"average":28369.849609375,"min":28369.85,"max":28369.85}
+{"gender":"Male","city":"Puyehue","total":51163.6796875,"average":51163.6796875,"min":51163.68,"max":51163.68}
+{"gender":"Male","city":"Baoyou","total":22066.55078125,"average":22066.55078125,"min":22066.55,"max":22066.55}
+{"gender":"Female","city":"Leninsk","total":82739.4375,"average":82739.4375,"min":82739.44,"max":82739.44}
+{"gender":"Female","city":"Pongkor","total":44539.16015625,"average":44539.16015625,"min":44539.16,"max":44539.16}
+{"gender":"Female","city":"Figueira Castelo Rodrigo","total":27831.08984375,"average":27831.08984375,"min":27831.09,"max":27831.09}
+{"gender":"Male","city":"Labuan","total":79300.59375,"average":79300.59375,"min":79300.59,"max":79300.59}
+{"gender":"Male","city":"HanHuang","total":34173.94140625,"average":34173.94140625,"min":34173.94,"max":34173.94}
+{"gender":"Female","city":"Guzhen","total":94642.390625,"average":94642.390625,"min":94642.39,"max":94642.39}
+{"gender":"Female","city":"Dire Dawa","total":96380.453125,"average":96380.453125,"min":96380.45,"max":96380.45}
+{"gender":"Female","city":"Neglasari","total":23216.029296875,"average":23216.029296875,"min":23216.03,"max":23216.03}
+{"gender":"Female","city":"Svorónos","total":90634.78125,"average":90634.78125,"min":90634.78,"max":90634.78}
+{"gender":"Female","city":"Chunghwa","total":13757.669921875,"average":13757.669921875,"min":13757.67,"max":13757.67}
+{"gender":"Male","city":"Pavlovsk","total":70536.9609375,"average":70536.9609375,"min":70536.96,"max":70536.96}
+{"gender":"Male","city":"Makurazaki","total":37676.98828125,"average":37676.98828125,"min":37676.99,"max":37676.99}
+{"gender":"Male","city":"Saguiaran","total":76379.1875,"average":76379.1875,"min":76379.19,"max":76379.19}
+{"gender":"Female","city":"Baima","total":91186.046875,"average":91186.046875,"min":91186.05,"max":91186.05}
+{"gender":"Female","city":"Cipinang","total":11617.509765625,"average":11617.509765625,"min":11617.51,"max":11617.51}
+{"gender":"Female","city":"Ananea","total":63400.62109375,"average":63400.62109375,"min":63400.62,"max":63400.62}
+{"gender":"Male","city":"Medveditskiy","total":75714.2109375,"average":75714.2109375,"min":75714.21,"max":75714.21}
+{"gender":"Female","city":"Kandangan","total":63633.328125,"average":63633.328125,"min":63633.33,"max":63633.33}
+{"gender":"Male","city":"Ādilpur","total":43405.41015625,"average":43405.41015625,"min":43405.41,"max":43405.41}
+{"gender":"Male","city":"Bazar-Korgon","total":83598.0,"average":83598.0,"min":83598.0,"max":83598.0}
+{"gender":"Male","city":"Yichun","total":62584.58984375,"average":62584.58984375,"min":62584.59,"max":62584.59}
+{"gender":"Male","city":"Paris 13","total":10760.33984375,"average":10760.33984375,"min":10760.34,"max":10760.34}
+{"gender":"Female","city":"Banjar Yehsatang","total":28327.810546875,"average":28327.810546875,"min":28327.81,"max":28327.81}
+{"gender":"Female","city":"Bogorejo","total":91694.7890625,"average":91694.7890625,"min":91694.79,"max":91694.79}
+{"gender":"Female","city":"Guajará Mirim","total":81607.7421875,"average":81607.7421875,"min":81607.74,"max":81607.74}
+{"gender":"Female","city":"Vysotsk","total":21401.359375,"average":21401.359375,"min":21401.36,"max":21401.36}
+{"gender":"Male","city":"Divnomorskoye","total":61489.23046875,"average":61489.23046875,"min":61489.23,"max":61489.23}
+{"gender":"Female","city":"Pointe-Noire","total":31536.08984375,"average":31536.08984375,"min":31536.09,"max":31536.09}
+{"gender":"Male","city":"Karvia","total":30329.310546875,"average":30329.310546875,"min":30329.31,"max":30329.31}
+{"gender":"Male","city":"Gesik","total":22820.25,"average":22820.25,"min":22820.25,"max":22820.25}
+{"gender":"Male","city":"Milići","total":45605.16015625,"average":45605.16015625,"min":45605.16,"max":45605.16}
+{"gender":"Female","city":"Jeżów Sudecki","total":55817.05078125,"average":55817.05078125,"min":55817.05,"max":55817.05}
+{"gender":"Female","city":"Lodan Wetan","total":84370.640625,"average":84370.640625,"min":84370.64,"max":84370.64}
+{"gender":"Male","city":"La Soledad","total":25810.060546875,"average":25810.060546875,"min":25810.06,"max":25810.06}
+{"gender":"Female","city":"Ayía Triás","total":34210.421875,"average":34210.421875,"min":34210.42,"max":34210.42}
+{"gender":"Male","city":"Petäjävesi","total":71207.8984375,"average":71207.8984375,"min":71207.9,"max":71207.9}
+{"gender":"Male","city":"Viļaka","total":39894.26171875,"average":39894.26171875,"min":39894.26,"max":39894.26}
+{"gender":"Female","city":"Nganane","total":41636.98828125,"average":41636.98828125,"min":41636.99,"max":41636.99}
+{"gender":"Male","city":"Villa Bustos","total":26791.0703125,"average":26791.0703125,"min":26791.07,"max":26791.07}
+{"gender":"Female","city":"Sofo-Birnin-Gwari","total":45680.96875,"average":45680.96875,"min":45680.97,"max":45680.97}
+{"gender":"Male","city":"Lyeskawka","total":28830.91015625,"average":28830.91015625,"min":28830.91,"max":28830.91}
+{"gender":"Male","city":"Pasian","total":99421.34375,"average":99421.34375,"min":99421.34,"max":99421.34}
+{"gender":"Male","city":"Marićka","total":68541.9921875,"average":68541.9921875,"min":68541.99,"max":68541.99}
+{"gender":"Female","city":"Unión","total":83536.046875,"average":83536.046875,"min":83536.05,"max":83536.05}
+{"gender":"Male","city":"Huangyang","total":63001.94921875,"average":63001.94921875,"min":63001.95,"max":63001.95}
+{"gender":"Male","city":"Ban Talat Nua","total":37021.921875,"average":37021.921875,"min":37021.92,"max":37021.92}
+{"gender":"Female","city":"Dingle","total":47861.51171875,"average":47861.51171875,"min":47861.51,"max":47861.51}
+{"gender":"Male","city":"Soly","total":97968.3984375,"average":97968.3984375,"min":97968.4,"max":97968.4}
+{"gender":"Male","city":"Puncaksari","total":42176.0703125,"average":42176.0703125,"min":42176.07,"max":42176.07}
+{"gender":"Female","city":"Baraya","total":74605.328125,"average":74605.328125,"min":74605.33,"max":74605.33}
+{"gender":"Female","city":"Klippan","total":77039.46875,"average":77039.46875,"min":77039.47,"max":77039.47}
+{"gender":"Male","city":"Itaguaí","total":28301.30078125,"average":28301.30078125,"min":28301.3,"max":28301.3}
+{"gender":"Male","city":"Magugu","total":45042.140625,"average":45042.140625,"min":45042.14,"max":45042.14}
+{"gender":"Male","city":"Podhum","total":12016.0703125,"average":12016.0703125,"min":12016.07,"max":12016.07}
+{"gender":"Female","city":"Kauit","total":89945.7109375,"average":89945.7109375,"min":89945.71,"max":89945.71}
+{"gender":"Male","city":"Springfield","total":50838.53125,"average":50838.53125,"min":50838.53,"max":50838.53}
+{"gender":"Female","city":"As Sulayyil","total":44520.890625,"average":44520.890625,"min":44520.89,"max":44520.89}
+{"gender":"Female","city":"Batutulis","total":16321.66015625,"average":16321.66015625,"min":16321.66,"max":16321.66}
+{"gender":"Female","city":"Clamart","total":68066.7578125,"average":68066.7578125,"min":68066.76,"max":68066.76}
+{"gender":"Male","city":"Schiedam postbusnummers","total":25602.19921875,"average":25602.19921875,"min":25602.2,"max":25602.2}
+{"gender":"Female","city":"Mompach","total":83840.0625,"average":83840.0625,"min":83840.06,"max":83840.06}
+{"gender":"Male","city":"Bile","total":97909.8828125,"average":97909.8828125,"min":97909.88,"max":97909.88}
+{"gender":"Female","city":"Ursus","total":11014.990234375,"average":11014.990234375,"min":11014.99,"max":11014.99}
+{"gender":"Female","city":"Oliveiras","total":43652.28125,"average":43652.28125,"min":43652.28,"max":43652.28}
+{"gender":"Female","city":"Milotice","total":41786.91015625,"average":41786.91015625,"min":41786.91,"max":41786.91}
+{"gender":"Male","city":"Pashiya","total":64250.26171875,"average":64250.26171875,"min":64250.26,"max":64250.26}
+{"gender":"Male","city":"Salgar","total":46578.2109375,"average":46578.2109375,"min":46578.21,"max":46578.21}
+{"gender":"Male","city":"Cernay","total":73317.921875,"average":73317.921875,"min":73317.92,"max":73317.92}
+{"gender":"Male","city":"Poncokusumo","total":25446.48046875,"average":25446.48046875,"min":25446.48,"max":25446.48}
+{"gender":"Female","city":"Bestala","total":30266.4609375,"average":30266.4609375,"min":30266.46,"max":30266.46}
+{"gender":"Male","city":"Yesan","total":42856.62109375,"average":42856.62109375,"min":42856.62,"max":42856.62}
+{"gender":"Female","city":"Eskilstuna","total":39756.87890625,"average":39756.87890625,"min":39756.88,"max":39756.88}
+{"gender":"Female","city":"Viejo Daan Banua","total":43927.5,"average":43927.5,"min":43927.5,"max":43927.5}
+{"gender":"Male","city":"Madjeouéni","total":52651.87109375,"average":52651.87109375,"min":52651.87,"max":52651.87}
+{"gender":"Male","city":"Heitan","total":73697.1015625,"average":73697.1015625,"min":73697.1,"max":73697.1}
+{"gender":"Female","city":"Michałowo","total":36636.171875,"average":36636.171875,"min":36636.17,"max":36636.17}
+{"gender":"Female","city":"Kokaj","total":29234.66015625,"average":29234.66015625,"min":29234.66,"max":29234.66}
+{"gender":"Male","city":"Laguna de Perlas","total":52145.76171875,"average":52145.76171875,"min":52145.76,"max":52145.76}
+{"gender":"Female","city":"Datong","total":64774.8984375,"average":64774.8984375,"min":64774.9,"max":64774.9}
+{"gender":"Male","city":"Ribeiro","total":87803.96875,"average":87803.96875,"min":87803.97,"max":87803.97}
+{"gender":"Female","city":"Newport","total":39530.578125,"average":39530.578125,"min":39530.58,"max":39530.58}
+{"gender":"Female","city":"Xinying","total":83766.3515625,"average":83766.3515625,"min":83766.35,"max":83766.35}
+{"gender":"Female","city":"Jackson","total":69901.0390625,"average":69901.0390625,"min":69901.04,"max":69901.04}
+{"gender":"Male","city":"Mawu","total":48994.62890625,"average":48994.62890625,"min":48994.63,"max":48994.63}
+{"gender":"Female","city":"Slobodka","total":22115.5703125,"average":22115.5703125,"min":22115.57,"max":22115.57}
+{"gender":"Female","city":"Atlanta","total":41745.23046875,"average":41745.23046875,"min":41745.23,"max":41745.23}
+{"gender":"Female","city":"Timiryazevskiy","total":99142.9375,"average":99142.9375,"min":99142.94,"max":99142.94}
+{"gender":"Male","city":"‘Aşīrah al Qiblīyah","total":42951.87890625,"average":42951.87890625,"min":42951.88,"max":42951.88}
+{"gender":"Female","city":"Beni Khiar","total":21108.23046875,"average":21108.23046875,"min":21108.23,"max":21108.23}
+{"gender":"Female","city":"Ridderkerk","total":59588.41015625,"average":59588.41015625,"min":59588.41,"max":59588.41}
+{"gender":"Male","city":"Zaraysk","total":63668.33984375,"average":63668.33984375,"min":63668.34,"max":63668.34}
+{"gender":"Female","city":"Kaustinen","total":85120.7734375,"average":85120.7734375,"min":85120.77,"max":85120.77}
+{"gender":"Female","city":"Ar Rawḑ","total":62467.78125,"average":62467.78125,"min":62467.78,"max":62467.78}
+{"gender":"Female","city":"Béja","total":57282.73828125,"average":57282.73828125,"min":57282.74,"max":57282.74}
+{"gender":"Male","city":"Tsiatsan","total":18795.439453125,"average":18795.439453125,"min":18795.44,"max":18795.44}
+{"gender":"Female","city":"Wenquan","total":82283.40625,"average":82283.40625,"min":82283.41,"max":82283.41}
+{"gender":"Male","city":"Mosfilotí","total":97631.703125,"average":97631.703125,"min":97631.7,"max":97631.7}
+{"gender":"Female","city":"Wangqingtuo","total":73423.703125,"average":73423.703125,"min":73423.7,"max":73423.7}
+{"gender":"Female","city":"Adigeni","total":58517.109375,"average":58517.109375,"min":58517.11,"max":58517.11}
+{"gender":"Female","city":"Sampit","total":39343.30859375,"average":39343.30859375,"min":39343.31,"max":39343.31}
+{"gender":"Female","city":"Venustiano Carranza","total":11223.75,"average":11223.75,"min":11223.75,"max":11223.75}
+{"gender":"Female","city":"Sungai Iyu","total":80136.2890625,"average":80136.2890625,"min":80136.29,"max":80136.29}
+{"gender":"Male","city":"Nuquí","total":46405.25,"average":46405.25,"min":46405.25,"max":46405.25}
+{"gender":"Female","city":"Zaghouan","total":32654.48046875,"average":32654.48046875,"min":32654.48,"max":32654.48}
+{"gender":"Female","city":"Heqing","total":63273.1796875,"average":63273.1796875,"min":63273.18,"max":63273.18}
+{"gender":"Female","city":"Marcq-en-Barœul","total":21873.7109375,"average":21873.7109375,"min":21873.71,"max":21873.71}
+{"gender":"Female","city":"Castle Bruce","total":35523.37109375,"average":35523.37109375,"min":35523.37,"max":35523.37}
+{"gender":"Male","city":"Lanas","total":61966.2890625,"average":61966.2890625,"min":61966.29,"max":61966.29}
+{"gender":"Female","city":"Emmen","total":59421.890625,"average":59421.890625,"min":59421.89,"max":59421.89}
+{"gender":"Male","city":"Arbeláez","total":157116.1328125,"average":78558.06640625,"min":68098.42,"max":89017.71}
+{"gender":"Female","city":"Kuala Terengganu","total":81003.7578125,"average":81003.7578125,"min":81003.76,"max":81003.76}
+{"gender":"Female","city":"Lázně Kynžvart","total":36963.69140625,"average":36963.69140625,"min":36963.69,"max":36963.69}
+{"gender":"Female","city":"Shinaihai","total":39544.640625,"average":39544.640625,"min":39544.64,"max":39544.64}
+{"gender":"Female","city":"Suchy Las","total":61517.640625,"average":61517.640625,"min":61517.64,"max":61517.64}
+{"gender":"Male","city":"Tiaong","total":75543.84375,"average":75543.84375,"min":75543.84,"max":75543.84}
+{"gender":"Female","city":"Nora","total":71668.5234375,"average":71668.5234375,"min":71668.52,"max":71668.52}
+{"gender":"Male","city":"Binzhou","total":79866.890625,"average":79866.890625,"min":79866.89,"max":79866.89}
+{"gender":"Male","city":"Svetlanovskiy","total":23317.58984375,"average":23317.58984375,"min":23317.59,"max":23317.59}
+{"gender":"Female","city":"Guarujá","total":21176.640625,"average":21176.640625,"min":21176.64,"max":21176.64}
+{"gender":"Female","city":"Stockholm","total":81081.0390625,"average":81081.0390625,"min":81081.04,"max":81081.04}
+{"gender":"Male","city":"Vairão","total":35983.328125,"average":35983.328125,"min":35983.33,"max":35983.33}
+{"gender":"Male","city":"Mnelalete","total":57265.640625,"average":57265.640625,"min":57265.64,"max":57265.64}
+{"gender":"Male","city":"Zhongying","total":49125.16015625,"average":49125.16015625,"min":49125.16,"max":49125.16}
+{"gender":"Female","city":"Monte Branco","total":50052.890625,"average":50052.890625,"min":50052.89,"max":50052.89}
+{"gender":"Male","city":"Uva","total":87006.609375,"average":87006.609375,"min":87006.61,"max":87006.61}
+{"gender":"Male","city":"Hamilton","total":50253.26953125,"average":50253.26953125,"min":50253.27,"max":50253.27}
+{"gender":"Female","city":"Ganfang","total":93860.6484375,"average":93860.6484375,"min":93860.65,"max":93860.65}
+{"gender":"Male","city":"Basseterre","total":29172.0703125,"average":29172.0703125,"min":29172.07,"max":29172.07}
+{"gender":"Female","city":"Obiliq","total":21039.359375,"average":21039.359375,"min":21039.36,"max":21039.36}
+{"gender":"Male","city":"Las Lomas","total":89750.8984375,"average":89750.8984375,"min":89750.9,"max":89750.9}
+{"gender":"Male","city":"San Juan","total":92340.9296875,"average":92340.9296875,"min":92340.93,"max":92340.93}
+{"gender":"Male","city":"Aix-en-Provence","total":65910.3125,"average":65910.3125,"min":65910.31,"max":65910.31}
+{"gender":"Female","city":"Połomia","total":10616.4404296875,"average":10616.4404296875,"min":10616.44,"max":10616.44}
+{"gender":"Female","city":"Jinqiao","total":75199.5,"average":75199.5,"min":75199.5,"max":75199.5}
+{"gender":"Male","city":"Žrnovo","total":74782.640625,"average":74782.640625,"min":74782.64,"max":74782.64}
+{"gender":"Male","city":"Leganes","total":47121.28125,"average":47121.28125,"min":47121.28,"max":47121.28}
+{"gender":"Male","city":"Puma","total":90772.0,"average":90772.0,"min":90772.0,"max":90772.0}
+{"gender":"Male","city":"Cotabambas","total":42662.23828125,"average":42662.23828125,"min":42662.24,"max":42662.24}
+{"gender":"Female","city":"Karabanovo","total":45568.921875,"average":45568.921875,"min":45568.92,"max":45568.92}
+{"gender":"Female","city":"Piúma","total":91322.546875,"average":91322.546875,"min":91322.55,"max":91322.55}
+{"gender":"Male","city":"Jaguaruana","total":64732.48046875,"average":64732.48046875,"min":64732.48,"max":64732.48}
+{"gender":"Male","city":"Rzhavki","total":62765.0,"average":62765.0,"min":62765.0,"max":62765.0}
+{"gender":"Male","city":"Imbang","total":46385.21875,"average":46385.21875,"min":46385.22,"max":46385.22}
+{"gender":"Female","city":"Luleå","total":85459.8828125,"average":85459.8828125,"min":85459.88,"max":85459.88}
+{"gender":"Female","city":"Paris 14","total":16156.3798828125,"average":16156.3798828125,"min":16156.38,"max":16156.38}
+{"gender":"Male","city":"Currais","total":95280.3515625,"average":95280.3515625,"min":95280.35,"max":95280.35}
+{"gender":"Female","city":"Rizal","total":29599.580078125,"average":29599.580078125,"min":29599.58,"max":29599.58}
+{"gender":"Male","city":"Aizi","total":69273.3203125,"average":69273.3203125,"min":69273.32,"max":69273.32}
+{"gender":"Female","city":"Lingqiao","total":81950.8828125,"average":81950.8828125,"min":81950.88,"max":81950.88}
+{"gender":"Male","city":"Qorovulbozor Shahri","total":47221.3984375,"average":47221.3984375,"min":47221.4,"max":47221.4}
+{"gender":"Female","city":"Skene","total":138061.27734375,"average":69030.638671875,"min":61211.56,"max":76849.72}
+{"gender":"Male","city":"Đông Thành","total":23180.7109375,"average":23180.7109375,"min":23180.71,"max":23180.71}
+{"gender":"Female","city":"Vicente Guerrero","total":71329.0,"average":71329.0,"min":71329.0,"max":71329.0}
+{"gender":"Male","city":"Nuevo Berlín","total":25751.75,"average":25751.75,"min":25751.75,"max":25751.75}
+{"gender":"Female","city":"Chandmanĭ","total":87792.296875,"average":87792.296875,"min":87792.3,"max":87792.3}
+{"gender":"Female","city":"Springfield","total":30556.119140625,"average":30556.119140625,"min":30556.12,"max":30556.12}
+{"gender":"Female","city":"Sundbyberg","total":45239.359375,"average":45239.359375,"min":45239.36,"max":45239.36}
+{"gender":"Female","city":"Santiago","total":17535.130859375,"average":17535.130859375,"min":17535.13,"max":17535.13}
+{"gender":"Female","city":"Gornji Grad","total":39274.71875,"average":39274.71875,"min":39274.72,"max":39274.72}
+{"gender":"Male","city":"Shedok","total":74236.078125,"average":74236.078125,"min":74236.08,"max":74236.08}
+{"gender":"Male","city":"Xichuan","total":40279.58984375,"average":40279.58984375,"min":40279.59,"max":40279.59}
+{"gender":"Female","city":"Floresta","total":84566.90625,"average":84566.90625,"min":84566.91,"max":84566.91}
+{"gender":"Male","city":"Öjebyn","total":14880.6201171875,"average":14880.6201171875,"min":14880.62,"max":14880.62}
+{"gender":"Female","city":"Cerro Blanco","total":49236.2109375,"average":49236.2109375,"min":49236.21,"max":49236.21}
+{"gender":"Female","city":"Emiliano Zapata","total":34644.58984375,"average":34644.58984375,"min":34644.59,"max":34644.59}
+{"gender":"Female","city":"Lyon","total":76317.8671875,"average":76317.8671875,"min":76317.87,"max":76317.87}
+{"gender":"Male","city":"Farasān","total":52448.5,"average":52448.5,"min":52448.5,"max":52448.5}
+{"gender":"Female","city":"Skuodas","total":70306.2890625,"average":70306.2890625,"min":70306.29,"max":70306.29}
+{"gender":"Male","city":"Seremban","total":20966.220703125,"average":20966.220703125,"min":20966.22,"max":20966.22}
+{"gender":"Male","city":"Liên Chiểu","total":94017.1484375,"average":94017.1484375,"min":94017.15,"max":94017.15}
+{"gender":"Female","city":"Krajan Tengah","total":64106.41015625,"average":64106.41015625,"min":64106.41,"max":64106.41}
+{"gender":"Female","city":"Timbiras","total":59550.3984375,"average":59550.3984375,"min":59550.4,"max":59550.4}
+{"gender":"Male","city":"Olopa","total":21720.220703125,"average":21720.220703125,"min":21720.22,"max":21720.22}
+{"gender":"Female","city":"Kowŏn-ŭp","total":51438.2890625,"average":51438.2890625,"min":51438.29,"max":51438.29}
+{"gender":"Female","city":"Casma","total":58377.46875,"average":58377.46875,"min":58377.47,"max":58377.47}
+{"gender":"Male","city":"Virojoki","total":55516.69140625,"average":55516.69140625,"min":55516.69,"max":55516.69}
+{"gender":"Female","city":"Taiping","total":26979.66015625,"average":26979.66015625,"min":26979.66,"max":26979.66}
+{"gender":"Female","city":"Derbent","total":67199.1328125,"average":67199.1328125,"min":67199.13,"max":67199.13}
+{"gender":"Male","city":"Niny","total":53258.859375,"average":53258.859375,"min":53258.86,"max":53258.86}
+{"gender":"Female","city":"Zhangcun","total":45824.55859375,"average":45824.55859375,"min":45824.56,"max":45824.56}
+{"gender":"Male","city":"Novozavidovskiy","total":67437.8828125,"average":67437.8828125,"min":67437.88,"max":67437.88}
+{"gender":"Female","city":"Klukeng","total":98439.4921875,"average":98439.4921875,"min":98439.49,"max":98439.49}
+{"gender":"Male","city":"Shah Alam","total":49715.87890625,"average":49715.87890625,"min":49715.88,"max":49715.88}
+{"gender":"Female","city":"Novorossiysk","total":38833.578125,"average":38833.578125,"min":38833.58,"max":38833.58}
+{"gender":"Female","city":"Guanaja","total":16200.099609375,"average":16200.099609375,"min":16200.1,"max":16200.1}
+{"gender":"Female","city":"Kinsealy-Drinan","total":30101.16015625,"average":30101.16015625,"min":30101.16,"max":30101.16}
+{"gender":"Female","city":"Kakamas","total":44648.26953125,"average":44648.26953125,"min":44648.27,"max":44648.27}
+{"gender":"Female","city":"Ituzaingó","total":52271.73046875,"average":52271.73046875,"min":52271.73,"max":52271.73}
+{"gender":"Male","city":"Pogag","total":61203.01171875,"average":61203.01171875,"min":61203.01,"max":61203.01}
+{"gender":"Male","city":"Stockholm","total":50645.5,"average":50645.5,"min":50645.5,"max":50645.5}
+{"gender":"Male","city":"Guanzhou","total":77999.9609375,"average":77999.9609375,"min":77999.96,"max":77999.96}
+{"gender":"Female","city":"Longgang","total":34565.58984375,"average":34565.58984375,"min":34565.59,"max":34565.59}
+{"gender":"Female","city":"Los Mangos","total":15288.1103515625,"average":15288.1103515625,"min":15288.11,"max":15288.11}
+{"gender":"Male","city":"Auki","total":66576.9609375,"average":66576.9609375,"min":66576.96,"max":66576.96}
+{"gender":"Male","city":"Kertamukti","total":75388.390625,"average":75388.390625,"min":75388.39,"max":75388.39}
+{"gender":"Female","city":"San Pedro Masahuat","total":10808.16015625,"average":10808.16015625,"min":10808.16,"max":10808.16}
+{"gender":"Female","city":"Goulmima","total":24385.609375,"average":24385.609375,"min":24385.61,"max":24385.61}
+{"gender":"Male","city":"Banyulegi","total":75532.796875,"average":75532.796875,"min":75532.8,"max":75532.8}
+{"gender":"Male","city":"Golina","total":64656.3984375,"average":64656.3984375,"min":64656.4,"max":64656.4}
+{"gender":"Female","city":"Storuman","total":61503.28125,"average":61503.28125,"min":61503.28,"max":61503.28}
+{"gender":"Male","city":"Botlhapatlou","total":36392.28125,"average":36392.28125,"min":36392.28,"max":36392.28}
+{"gender":"Male","city":"Trélissac","total":46116.359375,"average":46116.359375,"min":46116.36,"max":46116.36}
+{"gender":"Female","city":"Qiligang","total":56333.76953125,"average":56333.76953125,"min":56333.77,"max":56333.77}
+{"gender":"Male","city":"Kiupo","total":87249.28125,"average":87249.28125,"min":87249.28,"max":87249.28}
+{"gender":"Male","city":"Konstancin-Jeziorna","total":27826.1796875,"average":27826.1796875,"min":27826.18,"max":27826.18}
+{"gender":"Female","city":"Puncakwangi","total":93689.453125,"average":93689.453125,"min":93689.45,"max":93689.45}
+{"gender":"Female","city":"Dutsin Ma","total":15323.099609375,"average":15323.099609375,"min":15323.1,"max":15323.1}
+{"gender":"Male","city":"Juvisy-sur-Orge","total":55079.80078125,"average":55079.80078125,"min":55079.8,"max":55079.8}
+{"gender":"Male","city":"Doloplazy","total":42590.48828125,"average":42590.48828125,"min":42590.49,"max":42590.49}
+{"gender":"Female","city":"Foz Sousa","total":20823.720703125,"average":20823.720703125,"min":20823.72,"max":20823.72}
+{"gender":"Female","city":"Oxapampa","total":52047.19921875,"average":52047.19921875,"min":52047.2,"max":52047.2}
+{"gender":"Male","city":"Polo","total":49279.80078125,"average":49279.80078125,"min":49279.8,"max":49279.8}
+{"gender":"Female","city":"Haykashen","total":76556.5703125,"average":76556.5703125,"min":76556.57,"max":76556.57}
+{"gender":"Female","city":"Manhete","total":24265.759765625,"average":24265.759765625,"min":24265.76,"max":24265.76}
+{"gender":"Female","city":"Parelhas","total":79334.90625,"average":79334.90625,"min":79334.91,"max":79334.91}
+{"gender":"Male","city":"Yatsushiro","total":85517.703125,"average":85517.703125,"min":85517.7,"max":85517.7}
+{"gender":"Male","city":"Capela","total":53975.69921875,"average":53975.69921875,"min":53975.7,"max":53975.7}
+{"gender":"Female","city":"Sioah","total":95912.4375,"average":95912.4375,"min":95912.44,"max":95912.44}
+{"gender":"Female","city":"Bulgan","total":62846.6015625,"average":62846.6015625,"min":62846.6,"max":62846.6}
+{"gender":"Male","city":"Caxias","total":99786.3984375,"average":99786.3984375,"min":99786.4,"max":99786.4}
+{"gender":"Female","city":"Al Bīrah","total":87905.4296875,"average":87905.4296875,"min":87905.43,"max":87905.43}
+{"gender":"Female","city":"Baalbek","total":107504.80078125,"average":53752.400390625,"min":47529.18,"max":59975.62}
+{"gender":"Female","city":"Tsaghkunk’","total":83143.3984375,"average":83143.3984375,"min":83143.4,"max":83143.4}
+{"gender":"Female","city":"Piekoszów","total":78229.0,"average":78229.0,"min":78229.0,"max":78229.0}
+{"gender":"Female","city":"San Juan","total":12584.830078125,"average":12584.830078125,"min":12584.83,"max":12584.83}
+{"gender":"Female","city":"Vrbno pod Pradědem","total":45746.109375,"average":45746.109375,"min":45746.11,"max":45746.11}
+{"gender":"Male","city":"Tarauacá","total":15800.0595703125,"average":15800.0595703125,"min":15800.06,"max":15800.06}
+{"gender":"Female","city":"Cimongkor","total":90053.0234375,"average":90053.0234375,"min":90053.02,"max":90053.02}
+{"gender":"Male","city":"Bantarpanjang","total":69188.2265625,"average":69188.2265625,"min":69188.23,"max":69188.23}
+{"gender":"Female","city":"Chlumčany","total":26843.859375,"average":26843.859375,"min":26843.86,"max":26843.86}
+{"gender":"Male","city":"Perico","total":79520.5,"average":79520.5,"min":79520.5,"max":79520.5}
+{"gender":"Male","city":"Daet","total":82058.7890625,"average":82058.7890625,"min":82058.79,"max":82058.79}
+{"gender":"Male","city":"Kokotów","total":20350.349609375,"average":20350.349609375,"min":20350.35,"max":20350.35}
+{"gender":"Male","city":"Guanjiabao","total":45315.98046875,"average":45315.98046875,"min":45315.98,"max":45315.98}
+{"gender":"Male","city":"Maru","total":88916.90625,"average":88916.90625,"min":88916.91,"max":88916.91}
+{"gender":"Male","city":"São Gonçalo do Amarante","total":78640.953125,"average":78640.953125,"min":78640.95,"max":78640.95}
+{"gender":"Male","city":"Zhizhong","total":10913.5,"average":10913.5,"min":10913.5,"max":10913.5}
+{"gender":"Male","city":"Verba","total":62976.140625,"average":62976.140625,"min":62976.14,"max":62976.14}
+{"gender":"Male","city":"Librazhd-Qendër","total":32805.16015625,"average":32805.16015625,"min":32805.16,"max":32805.16}
+{"gender":"Male","city":"Jarash","total":10210.849609375,"average":10210.849609375,"min":10210.85,"max":10210.85}
+{"gender":"Female","city":"Mirny","total":68196.8671875,"average":68196.8671875,"min":68196.87,"max":68196.87}
+{"gender":"Male","city":"Gaoshi","total":10101.919921875,"average":10101.919921875,"min":10101.92,"max":10101.92}
+{"gender":"Female","city":"Boliden","total":63032.26953125,"average":63032.26953125,"min":63032.27,"max":63032.27}
+{"gender":"Male","city":"Gomunice","total":96055.8125,"average":96055.8125,"min":96055.81,"max":96055.81}
+{"gender":"Female","city":"Sanhui","total":16395.099609375,"average":16395.099609375,"min":16395.1,"max":16395.1}
+{"gender":"Female","city":"Myeik","total":28860.810546875,"average":28860.810546875,"min":28860.81,"max":28860.81}
+{"gender":"Female","city":"Esik","total":92021.140625,"average":92021.140625,"min":92021.14,"max":92021.14}
+{"gender":"Female","city":"Verkhniy Dashkesan","total":93279.1328125,"average":93279.1328125,"min":93279.13,"max":93279.13}
+{"gender":"Male","city":"Myadzyel","total":70260.96875,"average":70260.96875,"min":70260.97,"max":70260.97}
+{"gender":"Male","city":"Zongzhai","total":20313.869140625,"average":20313.869140625,"min":20313.87,"max":20313.87}
+{"gender":"Male","city":"Dijon","total":81452.921875,"average":81452.921875,"min":81452.92,"max":81452.92}
+{"gender":"Male","city":"Itabaiana","total":99502.15625,"average":99502.15625,"min":99502.16,"max":99502.16}
+{"gender":"Male","city":"Santa Bárbara","total":94080.078125,"average":94080.078125,"min":94080.08,"max":94080.08}
+{"gender":"Male","city":"Martyush","total":51071.578125,"average":51071.578125,"min":51071.58,"max":51071.58}
+{"gender":"Male","city":"Khyzy","total":73169.4765625,"average":73169.4765625,"min":73169.48,"max":73169.48}
+{"gender":"Female","city":"Nyrob","total":20545.150390625,"average":20545.150390625,"min":20545.15,"max":20545.15}
+{"gender":"Male","city":"Taifu","total":87708.3984375,"average":87708.3984375,"min":87708.4,"max":87708.4}
+{"gender":"Female","city":"København","total":37744.71875,"average":37744.71875,"min":37744.72,"max":37744.72}
+{"gender":"Male","city":"Jingling","total":55594.30859375,"average":55594.30859375,"min":55594.31,"max":55594.31}
+{"gender":"Female","city":"Dzüyl","total":28106.509765625,"average":28106.509765625,"min":28106.51,"max":28106.51}
+{"gender":"Female","city":"Valence","total":62929.671875,"average":62929.671875,"min":62929.67,"max":62929.67}
+{"gender":"Female","city":"Gimo","total":71129.8203125,"average":71129.8203125,"min":71129.82,"max":71129.82}
+{"gender":"Female","city":"Neochórion","total":81293.5234375,"average":81293.5234375,"min":81293.52,"max":81293.52}
+{"gender":"Male","city":"Tiannan","total":11209.8095703125,"average":11209.8095703125,"min":11209.81,"max":11209.81}
+{"gender":"Female","city":"Suphan Buri","total":64920.0703125,"average":64920.0703125,"min":64920.07,"max":64920.07}
+{"gender":"Male","city":"Zhuqi","total":38301.578125,"average":38301.578125,"min":38301.58,"max":38301.58}
+{"gender":"Male","city":"Massaguet","total":31637.609375,"average":31637.609375,"min":31637.61,"max":31637.61}
+{"gender":"Female","city":"Chayek","total":60216.0703125,"average":60216.0703125,"min":60216.07,"max":60216.07}
+{"gender":"Female","city":"Krasnomayskiy","total":54941.78125,"average":54941.78125,"min":54941.78,"max":54941.78}
+{"gender":"Male","city":"Oruro","total":31940.48046875,"average":31940.48046875,"min":31940.48,"max":31940.48}
+{"gender":"Female","city":"Kitakata","total":52024.12109375,"average":52024.12109375,"min":52024.12,"max":52024.12}
+{"gender":"Male","city":"Jamaica","total":36978.51171875,"average":36978.51171875,"min":36978.51,"max":36978.51}
+{"gender":"Female","city":"Lere","total":70333.4375,"average":70333.4375,"min":70333.44,"max":70333.44}
+{"gender":"Male","city":"Tartagal","total":42001.91015625,"average":42001.91015625,"min":42001.91,"max":42001.91}
+{"gender":"Male","city":"Samal","total":22930.279296875,"average":22930.279296875,"min":22930.28,"max":22930.28}
+{"gender":"Male","city":"Wringinputih","total":98603.8203125,"average":98603.8203125,"min":98603.82,"max":98603.82}
+{"gender":"Female","city":"Warudoyong","total":94061.5703125,"average":94061.5703125,"min":94061.57,"max":94061.57}
+{"gender":"Male","city":"Barusuda","total":78615.1015625,"average":78615.1015625,"min":78615.1,"max":78615.1}
+{"gender":"Female","city":"Kahama","total":27726.380859375,"average":27726.380859375,"min":27726.38,"max":27726.38}
+{"gender":"Female","city":"Venilale","total":84589.359375,"average":84589.359375,"min":84589.36,"max":84589.36}
+{"gender":"Female","city":"Íquira","total":28989.669921875,"average":28989.669921875,"min":28989.67,"max":28989.67}
+{"gender":"Male","city":"Sindangheula","total":62347.03125,"average":62347.03125,"min":62347.03,"max":62347.03}
+{"gender":"Female","city":"Banepa","total":67349.25,"average":67349.25,"min":67349.25,"max":67349.25}
+{"gender":"Male","city":"Mwinilunga","total":32178.1796875,"average":32178.1796875,"min":32178.18,"max":32178.18}
+{"gender":"Male","city":"Kharagauli","total":79247.9375,"average":79247.9375,"min":79247.94,"max":79247.94}
+{"gender":"Male","city":"Xiaoshi","total":93817.5078125,"average":93817.5078125,"min":93817.51,"max":93817.51}
+{"gender":"Male","city":"Chincha Baja","total":43872.69140625,"average":43872.69140625,"min":43872.69,"max":43872.69}
+{"gender":"Female","city":"Pho Duc","total":91952.9296875,"average":91952.9296875,"min":91952.93,"max":91952.93}
+{"gender":"Male","city":"Thorold","total":19832.05078125,"average":19832.05078125,"min":19832.05,"max":19832.05}
+{"gender":"Female","city":"Minakuchi","total":56605.33984375,"average":56605.33984375,"min":56605.34,"max":56605.34}
+{"gender":"Female","city":"Vigia","total":60274.01953125,"average":60274.01953125,"min":60274.02,"max":60274.02}
+{"gender":"Female","city":"Abéché","total":93375.1796875,"average":93375.1796875,"min":93375.18,"max":93375.18}
+{"gender":"Female","city":"Ul","total":75531.1875,"average":75531.1875,"min":75531.19,"max":75531.19}
+{"gender":"Male","city":"Banxi","total":95523.90625,"average":95523.90625,"min":95523.91,"max":95523.91}
+{"gender":"Male","city":"Hengliang","total":33361.55859375,"average":33361.55859375,"min":33361.56,"max":33361.56}
+{"gender":"Female","city":"Juntang","total":39072.921875,"average":39072.921875,"min":39072.92,"max":39072.92}
+{"gender":"Female","city":"Yangirabot","total":17163.529296875,"average":17163.529296875,"min":17163.53,"max":17163.53}
+{"gender":"Male","city":"Hoorn","total":14724.400390625,"average":14724.400390625,"min":14724.4,"max":14724.4}
+{"gender":"Male","city":"Xinsheng","total":77137.46875,"average":77137.46875,"min":77137.47,"max":77137.47}
+{"gender":"Male","city":"Irving","total":26333.16015625,"average":26333.16015625,"min":26333.16,"max":26333.16}
+{"gender":"Male","city":"Zhosaly","total":74509.5703125,"average":74509.5703125,"min":74509.57,"max":74509.57}
+{"gender":"Male","city":"Fox Creek","total":98138.0,"average":98138.0,"min":98138.0,"max":98138.0}
+{"gender":"Female","city":"Kafr Zaytā","total":58421.328125,"average":58421.328125,"min":58421.33,"max":58421.33}
+{"gender":"Female","city":"Oslo","total":52060.19921875,"average":52060.19921875,"min":52060.2,"max":52060.2}
+{"gender":"Male","city":"Cambas","total":22641.650390625,"average":22641.650390625,"min":22641.65,"max":22641.65}
+{"gender":"Female","city":"María la Baja","total":37379.03125,"average":37379.03125,"min":37379.03,"max":37379.03}
+{"gender":"Female","city":"Driyorejo","total":87771.84375,"average":87771.84375,"min":87771.84,"max":87771.84}
+{"gender":"Male","city":"Jincheng","total":95497.90625,"average":95497.90625,"min":95497.91,"max":95497.91}
+{"gender":"Male","city":"Rockford","total":70527.2421875,"average":70527.2421875,"min":70527.24,"max":70527.24}
+{"gender":"Male","city":"Yashio-shi","total":82610.8125,"average":82610.8125,"min":82610.81,"max":82610.81}
+{"gender":"Male","city":"Dahuang","total":27207.16015625,"average":27207.16015625,"min":27207.16,"max":27207.16}
+{"gender":"Male","city":"Rokoy","total":16025.66015625,"average":16025.66015625,"min":16025.66,"max":16025.66}
+{"gender":"Male","city":"Pariaman","total":80054.1875,"average":80054.1875,"min":80054.19,"max":80054.19}
+{"gender":"Female","city":"Yongfeng","total":86347.6015625,"average":86347.6015625,"min":86347.6,"max":86347.6}
+{"gender":"Male","city":"Didian","total":52146.53125,"average":52146.53125,"min":52146.53,"max":52146.53}
+{"gender":"Female","city":"Bantardawa","total":22561.7890625,"average":22561.7890625,"min":22561.79,"max":22561.79}
+{"gender":"Male","city":"São Mamede de Infesta","total":55111.05859375,"average":55111.05859375,"min":55111.06,"max":55111.06}
+{"gender":"Female","city":"Gunungmanik","total":52885.80078125,"average":52885.80078125,"min":52885.8,"max":52885.8}
+{"gender":"Male","city":"Yongfeng","total":74102.609375,"average":74102.609375,"min":74102.61,"max":74102.61}
+{"gender":"Female","city":"Arcangel","total":69854.1015625,"average":69854.1015625,"min":69854.1,"max":69854.1}
+{"gender":"Female","city":"Guangdu","total":69135.8984375,"average":69135.8984375,"min":69135.9,"max":69135.9}
+{"gender":"Female","city":"Huibu","total":61707.55078125,"average":61707.55078125,"min":61707.55,"max":61707.55}
+{"gender":"Male","city":"Hodkovičky","total":60052.69921875,"average":60052.69921875,"min":60052.7,"max":60052.7}
+{"gender":"Male","city":"Xiying","total":49795.0390625,"average":49795.0390625,"min":49795.04,"max":49795.04}
+{"gender":"Female","city":"Leshukonskoye","total":15428.490234375,"average":15428.490234375,"min":15428.49,"max":15428.49}
+{"gender":"Male","city":"Lungmar","total":31406.560546875,"average":31406.560546875,"min":31406.56,"max":31406.56}
+{"gender":"Female","city":"Moulins","total":136687.703125,"average":68343.8515625,"min":67625.07,"max":69062.63}
+{"gender":"Male","city":"Borodino","total":52742.609375,"average":52742.609375,"min":52742.61,"max":52742.61}
+{"gender":"Male","city":"Dallas","total":55870.408203125,"average":27935.2041015625,"min":19771.76,"max":36098.65}
+{"gender":"Male","city":"Jiazhuang","total":97359.140625,"average":97359.140625,"min":97359.14,"max":97359.14}
+{"gender":"Male","city":"Paderne","total":44332.94140625,"average":44332.94140625,"min":44332.94,"max":44332.94}
+{"gender":"Male","city":"Fāraskūr","total":16800.3203125,"average":16800.3203125,"min":16800.32,"max":16800.32}
+{"gender":"Female","city":"Patulul","total":31349.44921875,"average":31349.44921875,"min":31349.45,"max":31349.45}
+{"gender":"Female","city":"Xiuying","total":87031.4609375,"average":87031.4609375,"min":87031.46,"max":87031.46}
+{"gender":"Female","city":"Lyaskovets","total":95106.34375,"average":95106.34375,"min":95106.34,"max":95106.34}
+{"gender":"Male","city":"Gjoa Haven","total":68943.4375,"average":68943.4375,"min":68943.44,"max":68943.44}
+{"gender":"Female","city":"Nowa Ruda","total":57438.1796875,"average":57438.1796875,"min":57438.18,"max":57438.18}
+{"gender":"Female","city":"Yacuiba","total":92180.9296875,"average":92180.9296875,"min":92180.93,"max":92180.93}
+{"gender":"Female","city":"Iwŏn-ŭp","total":37169.9609375,"average":37169.9609375,"min":37169.96,"max":37169.96}
+{"gender":"Female","city":"Vaudreuil-Dorion","total":73521.6484375,"average":73521.6484375,"min":73521.65,"max":73521.65}
+{"gender":"Female","city":"Camabatela","total":12872.849609375,"average":12872.849609375,"min":12872.85,"max":12872.85}
+{"gender":"Female","city":"Pak Thong Chai","total":52647.1796875,"average":52647.1796875,"min":52647.18,"max":52647.18}
+{"gender":"Male","city":"Sukaraja","total":52745.58984375,"average":52745.58984375,"min":52745.59,"max":52745.59}
+{"gender":"Male","city":"Borek","total":64010.640625,"average":64010.640625,"min":64010.64,"max":64010.64}
+{"gender":"Male","city":"Nao","total":14007.419921875,"average":14007.419921875,"min":14007.42,"max":14007.42}
+{"gender":"Male","city":"Malishka","total":76783.4765625,"average":76783.4765625,"min":76783.48,"max":76783.48}
+{"gender":"Female","city":"Radovitskiy","total":97060.1328125,"average":97060.1328125,"min":97060.13,"max":97060.13}
+{"gender":"Female","city":"Ubon Ratchathani","total":48945.3984375,"average":48945.3984375,"min":48945.4,"max":48945.4}
+{"gender":"Male","city":"Lunec","total":82423.7109375,"average":82423.7109375,"min":82423.71,"max":82423.71}
+{"gender":"Male","city":"Mehona","total":92313.859375,"average":92313.859375,"min":92313.86,"max":92313.86}
+{"gender":"Female","city":"Slatyne","total":88029.109375,"average":88029.109375,"min":88029.11,"max":88029.11}
+{"gender":"Male","city":"Spas-Zaulok","total":41604.671875,"average":41604.671875,"min":41604.67,"max":41604.67}
+{"gender":"Male","city":"San Agustín","total":46495.21875,"average":46495.21875,"min":46495.22,"max":46495.22}
+{"gender":"Female","city":"Fanrong","total":17017.099609375,"average":17017.099609375,"min":17017.1,"max":17017.1}
+{"gender":"Male","city":"Toledo","total":14761.91015625,"average":14761.91015625,"min":14761.91,"max":14761.91}
+{"gender":"Male","city":"Shūsh","total":88389.5625,"average":88389.5625,"min":88389.56,"max":88389.56}
+{"gender":"Female","city":"Kaduketug","total":79148.9765625,"average":79148.9765625,"min":79148.98,"max":79148.98}
+{"gender":"Male","city":"Niños Heroes","total":41345.69140625,"average":41345.69140625,"min":41345.69,"max":41345.69}
+{"gender":"Male","city":"Guanyang","total":56567.30859375,"average":56567.30859375,"min":56567.31,"max":56567.31}
+{"gender":"Female","city":"Sterlibashevo","total":26910.640625,"average":26910.640625,"min":26910.64,"max":26910.64}
+{"gender":"Male","city":"Ngã Bảy","total":25805.880859375,"average":25805.880859375,"min":25805.88,"max":25805.88}
+{"gender":"Female","city":"Montréal","total":38003.96875,"average":38003.96875,"min":38003.97,"max":38003.97}
+{"gender":"Female","city":"Maraã","total":57631.19140625,"average":57631.19140625,"min":57631.19,"max":57631.19}
+{"gender":"Male","city":"Yongning","total":90015.8671875,"average":90015.8671875,"min":90015.87,"max":90015.87}
+{"gender":"Male","city":"Tembayangan Barat","total":69147.7421875,"average":69147.7421875,"min":69147.74,"max":69147.74}
+{"gender":"Female","city":"Agios Dimitrios","total":32930.55078125,"average":32930.55078125,"min":32930.55,"max":32930.55}
+{"gender":"Female","city":"Wujia","total":81269.3125,"average":81269.3125,"min":81269.31,"max":81269.31}
+{"gender":"Male","city":"Xiaozhai","total":36990.609375,"average":36990.609375,"min":36990.61,"max":36990.61}
+{"gender":"Male","city":"Czarna Woda","total":21850.509765625,"average":21850.509765625,"min":21850.51,"max":21850.51}
+{"gender":"Male","city":"Kiten","total":63882.55859375,"average":63882.55859375,"min":63882.56,"max":63882.56}
+{"gender":"Female","city":"Reckange-sur-Mess","total":15589.5595703125,"average":15589.5595703125,"min":15589.56,"max":15589.56}
+{"gender":"Male","city":"Benito Juarez","total":82380.59375,"average":82380.59375,"min":82380.59,"max":82380.59}
+{"gender":"Female","city":"Mina Clavero","total":62252.359375,"average":62252.359375,"min":62252.36,"max":62252.36}
+{"gender":"Female","city":"Ccuntuma","total":61462.01171875,"average":61462.01171875,"min":61462.01,"max":61462.01}
+{"gender":"Female","city":"Pingle","total":91516.53125,"average":91516.53125,"min":91516.53,"max":91516.53}
+{"gender":"Female","city":"Kerema","total":44317.1015625,"average":44317.1015625,"min":44317.1,"max":44317.1}
+{"gender":"Male","city":"Aiquile","total":63039.2109375,"average":63039.2109375,"min":63039.21,"max":63039.21}
+{"gender":"Female","city":"Fontenay-sous-Bois","total":23725.490234375,"average":23725.490234375,"min":23725.49,"max":23725.49}
+{"gender":"Female","city":"Chaviña","total":70794.3203125,"average":70794.3203125,"min":70794.32,"max":70794.32}
+{"gender":"Male","city":"Derzhavīnsk","total":18182.91015625,"average":18182.91015625,"min":18182.91,"max":18182.91}
+{"gender":"Male","city":"Ibara","total":22366.4296875,"average":22366.4296875,"min":22366.43,"max":22366.43}
+{"gender":"Female","city":"Orong","total":47962.05078125,"average":47962.05078125,"min":47962.05,"max":47962.05}
+{"gender":"Male","city":"Sukorambi","total":20017.609375,"average":20017.609375,"min":20017.61,"max":20017.61}
+{"gender":"Male","city":"Rosso","total":36879.44140625,"average":36879.44140625,"min":36879.44,"max":36879.44}
+{"gender":"Female","city":"Mariano Moreno","total":11376.580078125,"average":11376.580078125,"min":11376.58,"max":11376.58}
+{"gender":"Male","city":"Caen","total":81237.2109375,"average":81237.2109375,"min":81237.21,"max":81237.21}
+{"gender":"Female","city":"Pysznica","total":31466.580078125,"average":31466.580078125,"min":31466.58,"max":31466.58}
+{"gender":"Female","city":"Dschang","total":39262.9609375,"average":39262.9609375,"min":39262.96,"max":39262.96}
+{"gender":"Male","city":"Kamālia","total":46879.328125,"average":46879.328125,"min":46879.33,"max":46879.33}
+{"gender":"Male","city":"Atlanta","total":25929.9296875,"average":25929.9296875,"min":25929.93,"max":25929.93}
+{"gender":"Female","city":"Kęty","total":44224.8984375,"average":44224.8984375,"min":44224.9,"max":44224.9}
+{"gender":"Female","city":"Karma","total":27633.30078125,"average":27633.30078125,"min":27633.3,"max":27633.3}
+{"gender":"Male","city":"Habingkloang","total":56892.96875,"average":56892.96875,"min":56892.97,"max":56892.97}
+{"gender":"Female","city":"Yuncheng","total":17959.150390625,"average":17959.150390625,"min":17959.15,"max":17959.15}
+{"gender":"Male","city":"Shuangjiang","total":29673.009765625,"average":29673.009765625,"min":29673.01,"max":29673.01}
+{"gender":"Male","city":"Mieścisko","total":44947.12109375,"average":22473.560546875,"min":18907.81,"max":26039.31}
+{"gender":"Female","city":"Gerong","total":58172.73046875,"average":58172.73046875,"min":58172.73,"max":58172.73}
+{"gender":"Male","city":"Aveleda","total":35409.578125,"average":35409.578125,"min":35409.58,"max":35409.58}
+{"gender":"Male","city":"Wangshi","total":17529.3203125,"average":17529.3203125,"min":17529.32,"max":17529.32}
+{"gender":"Male","city":"Lachute","total":11926.3095703125,"average":11926.3095703125,"min":11926.31,"max":11926.31}
+{"gender":"Male","city":"Guiping","total":28755.529296875,"average":28755.529296875,"min":28755.53,"max":28755.53}
+{"gender":"Female","city":"Nunhala","total":70577.1328125,"average":70577.1328125,"min":70577.13,"max":70577.13}
+{"gender":"Female","city":"Lanigan","total":88604.390625,"average":88604.390625,"min":88604.39,"max":88604.39}
+{"gender":"Male","city":"Muyinga","total":91370.90625,"average":91370.90625,"min":91370.91,"max":91370.91}
+{"gender":"Male","city":"El Monte","total":85623.28125,"average":85623.28125,"min":85623.28,"max":85623.28}
+{"gender":"Male","city":"Pavlogradka","total":66158.8515625,"average":66158.8515625,"min":66158.85,"max":66158.85}
+{"gender":"Female","city":"Shar’ya","total":63188.6484375,"average":63188.6484375,"min":63188.65,"max":63188.65}
+{"gender":"Male","city":"Garbów","total":27445.9296875,"average":27445.9296875,"min":27445.93,"max":27445.93}
+{"gender":"Female","city":"Dalongzhan","total":36352.51171875,"average":36352.51171875,"min":36352.51,"max":36352.51}
+{"gender":"Female","city":"St. Thomas","total":16987.330078125,"average":16987.330078125,"min":16987.33,"max":16987.33}
+{"gender":"Female","city":"Tân Hiệp","total":51871.30859375,"average":51871.30859375,"min":51871.31,"max":51871.31}
+{"gender":"Male","city":"Rama","total":34944.80078125,"average":34944.80078125,"min":34944.8,"max":34944.8}
+{"gender":"Female","city":"Heliconia","total":89959.96875,"average":89959.96875,"min":89959.97,"max":89959.97}
+{"gender":"Female","city":"Tabālah","total":60641.75,"average":60641.75,"min":60641.75,"max":60641.75}
+{"gender":"Female","city":"Bené Beraq","total":74349.578125,"average":74349.578125,"min":74349.58,"max":74349.58}
+{"gender":"Male","city":"Brčko","total":23825.5390625,"average":23825.5390625,"min":23825.54,"max":23825.54}
+{"gender":"Female","city":"Dzaoudzi","total":65520.44921875,"average":65520.44921875,"min":65520.45,"max":65520.45}
+{"gender":"Male","city":"Krajan Siki","total":28660.109375,"average":28660.109375,"min":28660.11,"max":28660.11}
+{"gender":"Male","city":"East London","total":41468.828125,"average":41468.828125,"min":41468.83,"max":41468.83}
+{"gender":"Female","city":"Nangewer","total":70062.7265625,"average":70062.7265625,"min":70062.73,"max":70062.73}
+{"gender":"Male","city":"Bambous Virieux","total":96856.7265625,"average":96856.7265625,"min":96856.73,"max":96856.73}
+{"gender":"Female","city":"Al Mukallā","total":12468.7001953125,"average":12468.7001953125,"min":12468.7,"max":12468.7}
+{"gender":"Female","city":"Tasikmalaya","total":65785.15625,"average":65785.15625,"min":65785.16,"max":65785.16}
+{"gender":"Female","city":"Companhia de Baixo","total":83137.2421875,"average":83137.2421875,"min":83137.24,"max":83137.24}
+{"gender":"Male","city":"Houmt Souk","total":79870.3984375,"average":79870.3984375,"min":79870.4,"max":79870.4}
+{"gender":"Female","city":"Kurayoshi","total":32665.890625,"average":32665.890625,"min":32665.89,"max":32665.89}
+{"gender":"Female","city":"Senta","total":55175.87890625,"average":55175.87890625,"min":55175.88,"max":55175.88}
+{"gender":"Male","city":"Góra","total":37925.5703125,"average":37925.5703125,"min":37925.57,"max":37925.57}
+{"gender":"Female","city":"Buena Vista","total":85861.328125,"average":85861.328125,"min":85861.33,"max":85861.33}
+{"gender":"Male","city":"Inuyama","total":35134.87890625,"average":35134.87890625,"min":35134.88,"max":35134.88}
+{"gender":"Female","city":"Kozloduy","total":14866.419921875,"average":14866.419921875,"min":14866.42,"max":14866.42}
+{"gender":"Male","city":"Kham Sakae Saeng","total":11630.9501953125,"average":11630.9501953125,"min":11630.95,"max":11630.95}
+{"gender":"Male","city":"Dongshan","total":74449.5703125,"average":74449.5703125,"min":74449.57,"max":74449.57}
+{"gender":"Female","city":"Kenamoen","total":69631.2890625,"average":69631.2890625,"min":69631.29,"max":69631.29}
+{"gender":"Male","city":"Yuanqiao","total":72247.296875,"average":72247.296875,"min":72247.3,"max":72247.3}
+{"gender":"Male","city":"Kandete","total":96174.9375,"average":96174.9375,"min":96174.94,"max":96174.94}
+{"gender":"Male","city":"Bugarama","total":90470.1796875,"average":90470.1796875,"min":90470.18,"max":90470.18}
+{"gender":"Female","city":"Concepción","total":11824.51953125,"average":11824.51953125,"min":11824.52,"max":11824.52}
+{"gender":"Male","city":"Xiangdong","total":74615.1796875,"average":74615.1796875,"min":74615.18,"max":74615.18}
+{"gender":"Female","city":"Khorosheve","total":43603.83984375,"average":43603.83984375,"min":43603.84,"max":43603.84}
+{"gender":"Female","city":"Macarse","total":68709.0234375,"average":68709.0234375,"min":68709.02,"max":68709.02}
+{"gender":"Female","city":"Bang Yai","total":39999.73046875,"average":39999.73046875,"min":39999.73,"max":39999.73}
+{"gender":"Female","city":"Tadotsu","total":55595.30078125,"average":55595.30078125,"min":55595.3,"max":55595.3}
+{"gender":"Female","city":"Al ‘Udayn","total":38544.5703125,"average":38544.5703125,"min":38544.57,"max":38544.57}
+{"gender":"Male","city":"Kolochava","total":51590.578125,"average":51590.578125,"min":51590.58,"max":51590.58}
+{"gender":"Female","city":"Il’ichëvo","total":43503.55859375,"average":43503.55859375,"min":43503.56,"max":43503.56}
+{"gender":"Male","city":"Dobrica","total":59318.890625,"average":59318.890625,"min":59318.89,"max":59318.89}
+{"gender":"Male","city":"Maple Ridge","total":75660.3515625,"average":75660.3515625,"min":75660.35,"max":75660.35}
+{"gender":"Female","city":"Jinsha","total":63954.51953125,"average":63954.51953125,"min":63954.52,"max":63954.52}
+{"gender":"Male","city":"Wanglinkou","total":13300.919921875,"average":13300.919921875,"min":13300.92,"max":13300.92}
+{"gender":"Male","city":"Grytviken","total":66235.171875,"average":66235.171875,"min":66235.17,"max":66235.17}
+{"gender":"Female","city":"Welisara","total":48376.421875,"average":48376.421875,"min":48376.42,"max":48376.42}
+{"gender":"Male","city":"Magtangol","total":72072.9296875,"average":72072.9296875,"min":72072.93,"max":72072.93}
+{"gender":"Female","city":"Kabīrwāla","total":82044.0,"average":82044.0,"min":82044.0,"max":82044.0}
+{"gender":"Female","city":"Kýthnos","total":80548.359375,"average":80548.359375,"min":80548.36,"max":80548.36}
+{"gender":"Female","city":"Itami","total":94566.6875,"average":94566.6875,"min":94566.69,"max":94566.69}
+{"gender":"Female","city":"Pećigrad","total":19415.080078125,"average":19415.080078125,"min":19415.08,"max":19415.08}
+{"gender":"Male","city":"Jiyang","total":111250.42578125,"average":55625.212890625,"min":41273.88,"max":69976.55}
+{"gender":"Male","city":"Banjar Tengahbelayu","total":41031.9609375,"average":41031.9609375,"min":41031.96,"max":41031.96}
+{"gender":"Female","city":"Zhujiang","total":30786.33984375,"average":30786.33984375,"min":30786.34,"max":30786.34}
+{"gender":"Male","city":"Sujiazhuang","total":23901.140625,"average":23901.140625,"min":23901.14,"max":23901.14}
+{"gender":"Female","city":"Youwei","total":64311.30859375,"average":64311.30859375,"min":64311.31,"max":64311.31}
+{"gender":"Male","city":"Zheyuan","total":55844.6015625,"average":55844.6015625,"min":55844.6,"max":55844.6}
+{"gender":"Female","city":"Nouaseur","total":36268.6484375,"average":36268.6484375,"min":36268.65,"max":36268.65}
+{"gender":"Female","city":"Xiadian","total":77354.3515625,"average":77354.3515625,"min":77354.35,"max":77354.35}
+{"gender":"Female","city":"Calibishie","total":19180.7890625,"average":19180.7890625,"min":19180.79,"max":19180.79}
+{"gender":"Female","city":"Dogonbadan","total":77957.2421875,"average":77957.2421875,"min":77957.24,"max":77957.24}
+{"gender":"Female","city":"Boracéia","total":64899.19140625,"average":64899.19140625,"min":64899.19,"max":64899.19}
+{"gender":"Male","city":"Pinaring","total":72105.5,"average":72105.5,"min":72105.5,"max":72105.5}
+{"gender":"Female","city":"Zheleznogorsk","total":18453.01953125,"average":18453.01953125,"min":18453.02,"max":18453.02}
+{"gender":"Male","city":"Cocachacra","total":90391.7109375,"average":90391.7109375,"min":90391.71,"max":90391.71}
+{"gender":"Male","city":"Ribeirão das Neves","total":37574.140625,"average":37574.140625,"min":37574.14,"max":37574.14}
+{"gender":"Female","city":"Khāngāh Dogrān","total":95247.140625,"average":95247.140625,"min":95247.14,"max":95247.14}
+{"gender":"Female","city":"Hägersten","total":93673.2421875,"average":93673.2421875,"min":93673.24,"max":93673.24}
+{"gender":"Female","city":"Dawusu","total":34888.69921875,"average":34888.69921875,"min":34888.7,"max":34888.7}
+{"gender":"Female","city":"Mombok","total":16810.19921875,"average":16810.19921875,"min":16810.2,"max":16810.2}
+{"gender":"Male","city":"Torslanda","total":66504.421875,"average":66504.421875,"min":66504.42,"max":66504.42}
+{"gender":"Male","city":"Majāz al Bāb","total":67858.4765625,"average":67858.4765625,"min":67858.48,"max":67858.48}
+{"gender":"Female","city":"Tabant","total":29107.0,"average":29107.0,"min":29107.0,"max":29107.0}
+{"gender":"Male","city":"Idkū","total":27630.75,"average":27630.75,"min":27630.75,"max":27630.75}
+{"gender":"Female","city":"Salamnunggal","total":97140.859375,"average":97140.859375,"min":97140.86,"max":97140.86}
+{"gender":"Male","city":"Chishtiān Mandi","total":18229.9296875,"average":18229.9296875,"min":18229.93,"max":18229.93}
+{"gender":"Female","city":"Jabungsisir","total":91925.078125,"average":91925.078125,"min":91925.08,"max":91925.08}
+{"gender":"Male","city":"Ddmashen","total":34851.6484375,"average":34851.6484375,"min":34851.65,"max":34851.65}
+{"gender":"Male","city":"Kouvola","total":68685.75,"average":68685.75,"min":68685.75,"max":68685.75}
+{"gender":"Male","city":"Caridad","total":88700.6875,"average":88700.6875,"min":88700.69,"max":88700.69}
+{"gender":"Male","city":"Šmartno pri Litiji","total":35287.30859375,"average":35287.30859375,"min":35287.31,"max":35287.31}
+{"gender":"Female","city":"Bangbayang Kaler","total":99944.046875,"average":99944.046875,"min":99944.05,"max":99944.05}
+{"gender":"Male","city":"Kaélé","total":78367.859375,"average":78367.859375,"min":78367.86,"max":78367.86}
+{"gender":"Female","city":"Severo-Zadonsk","total":30192.08984375,"average":30192.08984375,"min":30192.09,"max":30192.09}
+{"gender":"Female","city":"Jarošov nad Nežárkou","total":82905.578125,"average":82905.578125,"min":82905.58,"max":82905.58}
+{"gender":"Male","city":"Oinoússes","total":41038.16015625,"average":41038.16015625,"min":41038.16,"max":41038.16}
+{"gender":"Female","city":"Bontoc","total":84727.609375,"average":84727.609375,"min":84727.61,"max":84727.61}
+{"gender":"Male","city":"Seredka","total":57257.03125,"average":57257.03125,"min":57257.03,"max":57257.03}
+{"gender":"Male","city":"Gostyń","total":34110.2109375,"average":34110.2109375,"min":34110.21,"max":34110.21}
+{"gender":"Male","city":"Nysa","total":81008.40625,"average":81008.40625,"min":81008.41,"max":81008.41}
+{"gender":"Male","city":"Secunda","total":21326.73046875,"average":21326.73046875,"min":21326.73,"max":21326.73}
+{"gender":"Female","city":"Arys","total":55981.2109375,"average":55981.2109375,"min":55981.21,"max":55981.21}
+{"gender":"Female","city":"Marigot","total":51961.98046875,"average":51961.98046875,"min":51961.98,"max":51961.98}
+{"gender":"Female","city":"Mranggen","total":68556.6875,"average":68556.6875,"min":68556.69,"max":68556.69}
+{"gender":"Male","city":"Sobang","total":94147.6484375,"average":94147.6484375,"min":94147.65,"max":94147.65}
+{"gender":"Male","city":"Nanjie","total":32671.900390625,"average":32671.900390625,"min":32671.9,"max":32671.9}
